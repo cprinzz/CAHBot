@@ -1,0 +1,5510 @@
+{
+    "blackCards": [{
+        "text": "Why can't I sleep at night?",
+        "pick": 1
+    }, {
+        "text": "I got 99 problems but _ ain't one.",
+        "pick": 1
+    }, {
+        "text": "What's a girl's best friend?",
+        "pick": 1
+    }, {
+        "text": "What's that smell?",
+        "pick": 1
+    }, {
+        "text": "This is the way the world ends / This is the way the world ends / Not with a bang but with _.",
+        "pick": 1
+    }, {
+        "text": "What is Batman's guilty pleasure?",
+        "pick": 1
+    }, {
+        "text": "TSA guidelines now prohibit _ on airplanes.",
+        "pick": 1
+    }, {
+        "text": "What ended my last relationship?",
+        "pick": 1
+    }, {
+        "text": "MTV's new reality show features eight washed-up celebrities living with _.",
+        "pick": 1
+    }, {
+        "text": "I drink to forget _.",
+        "pick": 1
+    }, {
+        "text": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
+        "pick": 1
+    }, {
+        "text": "Alternative medicine is now embracing the curative powers of _.",
+        "pick": 1
+    }, {
+        "text": "What's that sound?",
+        "pick": 1
+    }, {
+        "text": "What's the next Happy Meal toy?",
+        "pick": 1
+    }, {
+        "text": "It's a pity that kids these days are all getting involved with _.",
+        "pick": 1
+    }, {
+        "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
+        "pick": 1
+    }, {
+        "text": " _. That's how I want to die.",
+        "pick": 1
+    }, {
+        "text": "What does Dick Cheney prefer?",
+        "pick": 1
+    }, {
+        "text": "What's the most emo?",
+        "pick": 1
+    }, {
+        "text": "Instead of coal, Santa now gives the bad children _.",
+        "pick": 1
+    }, {
+        "text": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+        "pick": 1
+    }, {
+        "text": "A romantic, candlelit dinner would be incomplete without _.",
+        "pick": 1
+    }, {
+        "text": "White people like _.",
+        "pick": 1
+    }, {
+        "text": " _. Betcha can't have just one!",
+        "pick": 1
+    }, {
+        "text": "War!\n\nWhat is it good for?",
+        "pick": 1
+    }, {
+        "text": "BILLY MAYS HERE FOR _.",
+        "pick": 1
+    }, {
+        "text": " _. High five, bro.",
+        "pick": 1
+    }, {
+        "text": "During sex, I like to think about _.",
+        "pick": 1
+    }, {
+        "text": "What did I bring back from Mexico?",
+        "pick": 1
+    }, {
+        "text": "What are my parents hiding from me?",
+        "pick": 1
+    }, {
+        "text": "What will always get you laid?",
+        "pick": 1
+    }, {
+        "text": "What would grandma find disturbing, yet oddly charming?",
+        "pick": 1
+    }, {
+        "text": "What did the U.S. airdrop to the children of Afghanistan?",
+        "pick": 1
+    }, {
+        "text": "What helps Obama unwind?",
+        "pick": 1
+    }, {
+        "text": "What's there a ton of in heaven?",
+        "pick": 1
+    }, {
+        "text": "Major League Baseball has banned _ for giving players an unfair advantage.",
+        "pick": 1
+    }, {
+        "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
+        "pick": 1
+    }, {
+        "text": "What's the new fad diet?",
+        "pick": 1
+    }, {
+        "text": "When I am the President of the United States, I will create the Department of _.",
+        "pick": 1
+    }, {
+        "text": " _. It's a trap!",
+        "pick": 1
+    }, {
+        "text": "How am I maintaining my relationship status?",
+        "pick": 1
+    }, {
+        "text": "What will I bring back in time to convince people that I am a powerful wizard?",
+        "pick": 1
+    }, {
+        "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
+        "pick": 1
+    }, {
+        "text": "Coming to Broadway this season, _: The Musical.",
+        "pick": 1
+    }, {
+        "text": "What's my secret power?",
+        "pick": 1
+    }, {
+        "text": "What gives me uncontrollable gas?",
+        "pick": 1
+    }, {
+        "text": "But before I kill you, Mr. Bond, I must show you _.",
+        "pick": 1
+    }, {
+        "text": "What never fails to liven up the party?",
+        "pick": 1
+    }, {
+        "text": "What am I giving up for Lent?",
+        "pick": 1
+    }, {
+        "text": "What do old people smell like? ",
+        "pick": 1
+    }, {
+        "text": "The class field trip was completely ruined by _.",
+        "pick": 1
+    }, {
+        "text": "When Pharaoh remained unmoved, Moses called down a plague of _.",
+        "pick": 1
+    }, {
+        "text": "I do not know with which weapons World War III will be fought, but World War IV will be fought with _.",
+        "pick": 1
+    }, {
+        "text": "What's Teach for America using to inspire inner city students to succeed?",
+        "pick": 1
+    }, {
+        "text": "In Michael Jackson's final moments, he thought about _.",
+        "pick": 1
+    }, {
+        "text": "Why do I hurt all over?",
+        "pick": 1
+    }, {
+        "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+        "pick": 1
+    }, {
+        "text": "Why am I sticky?",
+        "pick": 1
+    }, {
+        "text": "What's my anti-drug?",
+        "pick": 1
+    }, {
+        "text": "And the Academy Award for _ goes to _.",
+        "pick": 2
+    }, {
+        "text": "For my next trick, I will pull _ out of _.",
+        "pick": 2
+    }, {
+        "text": " _: Good to the last drop.",
+        "pick": 1
+    }, {
+        "text": "What did Vin Diesel eat for dinner?",
+        "pick": 1
+    }, {
+        "text": " _: kid-tested, mother-approved.",
+        "pick": 1
+    }, {
+        "text": "What gets better with age?",
+        "pick": 1
+    }, {
+        "text": "I never truly understood _ until I encountered _.",
+        "pick": 2
+    }, {
+        "text": "Rumor has it that Vladimir Putin's favorite delicacy is _ stuffed with _.",
+        "pick": 2
+    }, {
+        "text": "Lifetime presents _, the story of _.",
+        "pick": 2
+    }, {
+        "text": "Make a haiku.",
+        "pick": 3
+    }, {
+        "text": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
+        "pick": 2
+    }, {
+        "text": " _ is a slippery slope that leads to _.",
+        "pick": 2
+    }, {
+        "text": "In a world ravaged by _, our only solace is _.",
+        "pick": 2
+    }, {
+        "text": "That's right, I killed _. How, you ask? _.",
+        "pick": 2
+    }, {
+        "text": "When I was tripping on acid, _ turned into _.",
+        "pick": 2
+    }, {
+        "text": " _ + _ = _.",
+        "pick": 3
+    }, {
+        "text": "What's the next superhero/sidekick duo?",
+        "pick": 2
+    }, {
+        "text": "Dear Abby,\n\nI'm having some trouble with _ and would like your advice.",
+        "pick": 1
+    }, {
+        "text": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
+        "pick": 1
+    }, {
+        "text": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
+        "pick": 1
+    }, {
+        "text": "Maybe she's born with it. Maybe it's _.",
+        "pick": 1
+    }, {
+        "text": "Life for American Indians was forever changed when the White Man introduced them to _.",
+        "pick": 1
+    }, {
+        "text": "Next on ESPN2, the World Series of _.",
+        "pick": 1
+    }, {
+        "text": "Step 1: _. Step 2: _. Step 3: Profit.",
+        "pick": 2
+    }, {
+        "text": "Here is the church\nHere is the steeple\nOpen the doors\nAnd there is _.",
+        "pick": 1
+    }, {
+        "text": "How did I lose my virginity?",
+        "pick": 1
+    }, {
+        "text": "During his childhood, Salvador Dalí produced hundreds of paintings of _.",
+        "pick": 1
+    }, {
+        "text": "In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?",
+        "pick": 1
+    }, {
+        "text": "What don't you want to find in your Kung Pao chicken?",
+        "pick": 1
+    }, {
+        "text": "The Smithsonian Museum of Natural History has just opened an exhibit on _.",
+        "pick": 1
+    }, {
+        "text": "Daddy, why is Mommy crying?",
+        "pick": 1
+    }, {
+        "text": "What brought the orgy to a grinding halt?",
+        "pick": 1
+    }, {
+        "text": "When I pooped, what came out of my butt?",
+        "pick": 1
+    }, {
+        "text": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+        "pick": 1
+    }, {
+        "text": "What's the gift that keeps on giving?",
+        "pick": 1
+    }, {
+        "text": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
+        "pick": 1
+    }, {
+        "text": "Michael Bay's new three-hour action epic pits _ against _.",
+        "pick": 2
+    }, {
+        "text": "And I would have gotten away with it, too, if it hadn't been for _!",
+        "pick": 1
+    }, {
+        "text": "In a pinch, _ can be a suitable substitute for _.",
+        "pick": 2
+    }, {
+        "text": "What has been making life difficult at the nudist colony?",
+        "pick": 1
+    }, {
+        "text": "Science will never explain the origin of _.",
+        "pick": 1
+    }, {
+        "text": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
+        "pick": 1
+    }, {
+        "text": "I learned the hard way that you can't cheer up a grieving friend with _.",
+        "pick": 1
+    }, {
+        "text": "When all else fails, I can always masturbate to _.",
+        "pick": 1
+    }, {
+        "text": "An international tribunal has found _ guilty of _.",
+        "pick": 2
+    }, {
+        "text": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
+        "pick": 1
+    }, {
+        "text": "In his new self-produced album, Kanye West raps over the sounds of _.",
+        "pick": 1
+    }, {
+        "text": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+        "pick": 1
+    }, {
+        "text": "He who controls _ controls the world.",
+        "pick": 1
+    }, {
+        "text": "Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _.",
+        "pick": 2
+    }, {
+        "text": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+        "pick": 1
+    }, {
+        "text": " _ would be woefully incomplete without _.",
+        "pick": 2
+    }, {
+        "text": "During his midlife crisis, my dad got really into _.",
+        "pick": 1
+    }, {
+        "text": "Before I run for president, I must destroy all evidence of my involvement with _.",
+        "pick": 1
+    }, {
+        "text": "My new favorite porn star is Joey \"_\" McGee.",
+        "pick": 1
+    }, {
+        "text": "In his newest and most difficult stunt, David Blaine must escape from _.",
+        "pick": 1
+    }, {
+        "text": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
+        "pick": 1
+    }, {
+        "text": "My mom freaked out when she looked at my browser history and found _.com/_.",
+        "pick": 2
+    }, {
+        "text": "The Five Stages of Grief: denial, anger, bargaining, _, acceptance.",
+        "pick": 1
+    }, {
+        "text": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+        "pick": 1
+    }, {
+        "text": "I went from _ to _, all thanks to _.",
+        "pick": 3
+    }, {
+        "text": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
+        "pick": 1
+    }, {
+        "text": "This month's Cosmo: \"Spice up your sex life by bringing _ into the bedroom.\"",
+        "pick": 1
+    }, {
+        "text": "If God didn't want us to enjoy _, he wouldn't have given us _.",
+        "pick": 2
+    }, {
+        "text": "My country, 'tis of thee, sweet land of _.",
+        "pick": 1
+    }, {
+        "text": "After months of debate, the Occupy Wall Street General Assembly could only agree on \"More _!\"",
+        "pick": 1
+    }, {
+        "text": "I spent my whole life working toward _, only to have it ruined by _.",
+        "pick": 2
+    }, {
+        "text": "Next time on Dr. Phil: How to talk to your child about _.",
+        "pick": 1
+    }, {
+        "text": "Only two things in life are certain: death and _.",
+        "pick": 1
+    }, {
+        "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+        "pick": 1
+    }, {
+        "text": "The healing process began when I joined a support group for victims of _.",
+        "pick": 1
+    }, {
+        "text": "The votes are in, and the new high school mascot is _.",
+        "pick": 1
+    }, {
+        "text": "Charades was ruined for me forever when my mom had to act out _.",
+        "pick": 1
+    }, {
+        "text": "Before _, all we had was _.",
+        "pick": 2
+    }, {
+        "text": "Tonight on 20/20: What you don't know about _ could kill you.",
+        "pick": 1
+    }, {
+        "text": "You haven't truly lived until you've experienced _ and _ at the same time.",
+        "pick": 2
+    }, {
+        "text": "Hey baby, come back to my place and I'll show you _.",
+        "pick": 1
+    }, {
+        "text": "My gym teacher got fired for adding _ to the obstacle course.",
+        "pick": 1
+    }, {
+        "text": "Finally! A service that delivers _ right to your door.",
+        "pick": 1
+    }, {
+        "text": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
+        "pick": 1
+    }, {
+        "text": "My life is ruled by a vicious cycle of _ and _.",
+        "pick": 2
+    }, {
+        "text": "During high school, I never really fit in until I found _ club.",
+        "pick": 1
+    }, {
+        "text": "Money can't buy me love, but it can buy me _.",
+        "pick": 1
+    }, {
+        "text": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
+        "pick": 2
+    }, {
+        "text": "A successful job interview begins with a firm handshake and ends with _.",
+        "pick": 1
+    }, {
+        "text": "Call the law offices of Goldstein & Goldstein, because no one should have to tolerate _ in the workplace.",
+        "pick": 1
+    }, {
+        "text": "Lovin' you is easy 'cause you're _.",
+        "pick": 1
+    }, {
+        "text": "The blind date was going horribly until we discovered our shared interest in _.",
+        "pick": 1
+    }, {
+        "text": "What left this stain on my couch?",
+        "pick": 1
+    }, {
+        "text": "Turns out that _-Man was neither the hero we needed nor wanted.",
+        "pick": 1
+    }, {
+        "text": "After months of practice with _, I think I'm finally ready for _.",
+        "pick": 2
+    }, {
+        "text": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+        "pick": 1
+    }, {
+        "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+        "pick": 1
+    }, {
+        "text": "When you get right down to it, _ is just _.",
+        "pick": 2
+    }, {
+        "text": "Having problems with _? Try _!",
+        "pick": 2
+    }, {
+        "text": "And what did <i>you</i> bring for show and tell?",
+        "pick": 1
+    }, {
+        "text": "I'm not like the rest of you. I'm too rich and busy for _.",
+        "pick": 1
+    }, {
+        "text": "With enough time and pressure, _ will turn into _.",
+        "pick": 2
+    }, {
+        "text": " _: Hours of fun. Easy to use. Perfect for _!",
+        "pick": 2
+    }, {
+        "text": " _. Awesome in theory, kind of a mess in practice.",
+        "pick": 1
+    }, {
+        "text": "As part of his contract, Prince won't perform without _ in his dressing room.",
+        "pick": 1
+    }, {
+        "text": "Man, this is bullshit. Fuck _.",
+        "pick": 1
+    }, {
+        "text": "Dear Leader Kim Jong-un,\nour village praises your infinite wisdom with a humble offering of _.",
+        "pick": 1
+    }, {
+        "text": " _ may pass, but _ will last forever.",
+        "pick": 2
+    }, {
+        "text": "She's up all night for good fun.\nI'm up all night for _.",
+        "pick": 1
+    }, {
+        "text": "Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation _.",
+        "pick": 1
+    }, {
+        "text": "The Japanese have developed a smaller, more efficient version of _.",
+        "pick": 1
+    }, {
+        "text": "In return for my soul, the Devil promised me _, but all I got was _.",
+        "pick": 2
+    }, {
+        "text": "You guys, I saw this crazy movie last night. It opens on _, and then there's some stuff about _, and then it ends with _.",
+        "pick": 3
+    }, {
+        "text": " _ will never be the same after _.",
+        "pick": 2
+    }, {
+        "text": "Wes Anderson's new film tells the story of a precocious child coming to terms with _.",
+        "pick": 1
+    }, {
+        "text": "In the beginning, there was _.\nAnd the Lord said, \"Let there be _.\"",
+        "pick": 2
+    }, {
+        "text": "What's fun until it gets weird?",
+        "pick": 1
+    }, {
+        "text": "We never did find _, but along the way we sure learned a lot about _.",
+        "pick": 2
+    }, {
+        "text": "You've seen the bearded lady!\nYou've seen the ring of fire!\nNow, ladies and gentlemen, feast your eyes upon _!",
+        "pick": 1
+    }, {
+        "text": "How am I compensating for my tiny penis?",
+        "pick": 1
+    }, {
+        "text": "I'm sorry, sir, but we don't allow _ at the country club.",
+        "pick": 1
+    }, {
+        "text": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for _.",
+        "pick": 1
+    }, {
+        "text": "As king, how will I keep the peasants in line?",
+        "pick": 1
+    }, {
+        "text": "Oprah's book of the month is \"_ For _: A Story of Hope.\"",
+        "pick": 2
+    }, {
+        "text": "Do <i>not</i> fuck with me! I am literally _ right now.",
+        "pick": 1
+    }, {
+        "text": "Adventure.\nRomance.\n_.\n\nFrom Paramount Pictures, \"_.\"",
+        "pick": 2
+    }, {
+        "text": "I am become _, destroyer of _!",
+        "pick": 2
+    }, {
+        "text": "It lurks in the night. It hungers for flesh. This summer, no one is safe from _.",
+        "pick": 1
+    }, {
+        "text": "If you can't handle _, you'd better stay away from _.",
+        "pick": 2
+    }, {
+        "text": "This is the prime of my life. I'm young, hot, and full of _.",
+        "pick": 1
+    }, {
+        "text": "I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _.",
+        "pick": 1
+    }, {
+        "text": "This year's hottest album is \"_\" by _.",
+        "pick": 2
+    }, {
+        "text": "Every step towards _ gets me a little closer to _.",
+        "pick": 2
+    }, {
+        "text": "Forget everything you know about _, because now we've supercharged it with _!",
+        "pick": 2
+    }, {
+        "text": "Honey, I have a new role-play I want to try tonight! You can be _, and I'll be _.",
+        "pick": 2
+    }, {
+        "text": "Do the Dew with our most extreme flavor yet! Get ready for Mountain Dew _!",
+        "pick": 1
+    }, {
+        "text": "Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _: priceless.",
+        "pick": 1
+    }, {
+        "text": "In his new action comedy, Jackie Chan must fend off ninjas while also dealing with _.",
+        "pick": 1
+    }, {
+        "text": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _.",
+        "pick": 1
+    }, {
+        "text": "Here at the Academy for Gifted Children, we allow students to explore _ at their own pace.",
+        "pick": 1
+    }, {
+        "text": "Heed my voice, mortals! I am the god of _, and I will not tolerate _!",
+        "pick": 2
+    }, {
+        "text": "I don't mean to brag, but they call me the Michael Jordan of _.",
+        "pick": 1
+    }, {
+        "text": "Why am I broke?",
+        "pick": 1
+    }, {
+        "text": "Help me doctor, I've got _ in my butt!",
+        "pick": 1
+    }, {
+        "text": "Hi MTV! My name is Kendra, I live in Malibu, I'm into _, and I love to have a good time.",
+        "pick": 1
+    }, {
+        "text": "Patient presents with _. Likely a result of _.",
+        "pick": 2
+    }, {
+        "text": "Life's pretty tough in the fast lane. That's why I never leave the house without _.",
+        "pick": 1
+    }, {
+        "text": "What's making things awkward in the sauna?",
+        "pick": 1
+    }, {
+        "text": "Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _.",
+        "pick": 1
+    }, {
+        "text": "Having the worst day EVER. #_.",
+        "pick": 1
+    }, {
+        "text": "In his farewell address, George Washington famously warned Americans about the dangers of _.",
+        "pick": 1
+    }, {
+        "text": "Don't forget! Beginning this week, Casual Friday will officially become \"_ Friday.\"",
+        "pick": 1
+    }, {
+        "text": "What killed my boner?",
+        "pick": 1
+    }, {
+        "text": "Yo' mama so fat she _!",
+        "pick": 1
+    }, {
+        "text": "Well if _ is good enough for _, it's good enough for me.",
+        "pick": 2
+    }, {
+        "text": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"_\". Can you explain?",
+        "pick": 1
+    }, {
+        "text": "Do you lack energy? Does it sometimes feel like the whole world is _? Zoloft.",
+        "pick": 1
+    }, {
+        "text": "WHOOO! God damn I love _!",
+        "pick": 1
+    }, {
+        "text": "Now in bookstores: \"The Audacity of _\", by Barack Obama.",
+        "pick": 1
+    }, {
+        "text": "And today's soup is Cream of _.",
+        "pick": 1
+    }, {
+        "text": "I work my ass off all day for this family, and this is what I come home to? _!?",
+        "pick": 1
+    }, {
+        "text": "I have a strict policy. First date, dinner. Second date, kiss. Third date, _.",
+        "pick": 1
+    }, {
+        "text": "When I was a kid, we used to play Cowboys and _.",
+        "pick": 1
+    }, {
+        "text": "This is America. If you don't work hard, you don't succeed. I don't care if you're black, white, purple, or _.",
+        "pick": 1
+    }, {
+        "text": "You Won't Believe These 15 Hilarious _ Bloopers!",
+        "pick": 1
+    }, {
+        "text": "James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _.",
+        "pick": 1
+    }, {
+        "text": "Don't worry kid. It gets better. I've been living with _ for 20 years.",
+        "pick": 1
+    }, {
+        "text": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and _.",
+        "pick": 1
+    }, {
+        "text": "Behind every powerful man is _.",
+        "pick": 1
+    }, {
+        "text": "You are not alone. Millions of Americans struggle with _ every day.",
+        "pick": 1
+    }, {
+        "text": "Come to Dubai, where you can relax in our world famous spas, experience the nightlife, or simply enjoy _ by the poolside.",
+        "pick": 1
+    }, {
+        "text": "\"This is madness.\" \"No, THIS IS _!\"",
+        "pick": 1
+    }, {
+        "text": "Listen Gary, I like you. But if you want that corner office, you're going to have to show me _.",
+        "pick": 1
+    }, {
+        "text": "I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _.",
+        "pick": 1
+    }, {
+        "text": "And would you like those buffalo wings mild, hot, or _?",
+        "pick": 1
+    }, {
+        "text": "The six things I could never do without: oxygen, Facebook, chocolate, Netflix, friends, and _ LOL!",
+        "pick": 1
+    }, {
+        "text": "Why won't you make love to me anymore? Is it _?",
+        "pick": 1
+    }, {
+        "text": "Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in _. This is normal.",
+        "pick": 1
+    }, {
+        "text": "I'm sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to _.",
+        "pick": 1
+    }, {
+        "text": "I'm Miss Tennessee, and if I could make the world better by changing one thing, I would get rid of _.",
+        "pick": 1
+    }, {
+        "text": "Tonight we will have sex. And afterwards, If you'd like, a little bit of _.",
+        "pick": 1
+    }, {
+        "text": "Everybody join hands and close your eyes. Do you sense that? That's the presence of _ in this room.",
+        "pick": 1
+    }, {
+        "text": "To become a true Yanomamo warrior, you must prove that you can withstand _ without crying out.",
+        "pick": 1
+    }, {
+        "text": "Y'all ready to get this thing started? I'm Nick Cannon, and this is America's Got _.",
+        "pick": 1
+    }, {
+        "text": "If you had to describe the Card Czar, using only one of the cards in your hand, which one would it be?",
+        "pick": 1
+    }, {
+        "text": " _ be all like _.",
+        "pick": 2
+    }, {
+        "text": "Art isn't just a painting in a stuffy museum. Art is alive. Art is _.",
+        "pick": 1
+    }, {
+        "text": "As reparations for slavery, all African Americans will receive _.",
+        "pick": 1
+    }, {
+        "text": "As Teddy Roosevelt said, the four manly virtues are honor, temperance, industry, and _.",
+        "pick": 1
+    }, {
+        "text": "Best you go back where you came from, now. We don't take too kindly to _ in these parts.",
+        "pick": 1
+    }, {
+        "text": "CNN breaking news! Scientists discover _.",
+        "pick": 1
+    }, {
+        "text": "Coming to Red Lobster this month, _.",
+        "pick": 1
+    }, {
+        "text": "Congratulations! You have been selected for our summer internship program. While we are unable to offer a salary, we can offer you _.",
+        "pick": 1
+    }, {
+        "text": "Dance like there's nobody watching, love like you'll never be hurt, and live like you're _.",
+        "pick": 1
+    }, {
+        "text": "Errbody in the club _.",
+        "pick": 1
+    }, {
+        "text": "Feeling so grateful! #amazing #mylife #_.",
+        "pick": 1
+    }, {
+        "text": "Girls just wanna have _.",
+        "pick": 1
+    }, {
+        "text": "Google Calendar alert: _ in 10 minutes.",
+        "pick": 1
+    }, {
+        "text": "I don't believe in God. I believe in _.",
+        "pick": 1
+    }, {
+        "text": "I got rhythm, I've got music, I've got _. Who could ask for anything more?",
+        "pick": 1
+    }, {
+        "text": "I may not be much to look at, but I fuck like _.",
+        "pick": 1
+    }, {
+        "text": "I tell you, it was a non-stop fuckfest. When it was over, my asshole looked like _.",
+        "pick": 1
+    }, {
+        "text": "I'll take the BBQ bacon burger with friend egg and fuck it how about _.",
+        "pick": 1
+    }, {
+        "text": "I'm sorry, sir, but your insurance plan doesn't cover injuries caused by _.",
+        "pick": 1
+    }, {
+        "text": "I've had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw _.",
+        "pick": 1
+    }, {
+        "text": "If at first you don't succeed, try _.",
+        "pick": 1
+    }, {
+        "text": "In the 1950s, psychologists prescribed _ as a cure for homosexuality.",
+        "pick": 1
+    }, {
+        "text": "LSD + _ = really bad time.",
+        "pick": 1
+    }, {
+        "text": "\"Mom's to-do list:\n- Buy Groceries.\n- Clean up _.\n- Soccer Practice.\"",
+        "pick": 1
+    }, {
+        "text": "Most Americans would not vote for a candidate who is openly _.",
+        "pick": 1
+    }, {
+        "text": "No, no, no, no, no, no, NO! I will NOT let _ ruin this wedding.",
+        "pick": 1
+    }, {
+        "text": "Oh no! Siri, how do I fix _?",
+        "pick": 1
+    }, {
+        "text": "One more thing. Watch out for Big Mike. They say he killed a man with _.",
+        "pick": 1
+    }, {
+        "text": "Ooo, daddy like _.",
+        "pick": 1
+    }, {
+        "text": "Poor Brandon, still living in his parent's basement. I heard he never got over _.",
+        "pick": 1
+    }, {
+        "text": "Run, run, as fast as you can! You can't catch me, I'm _!",
+        "pick": 1
+    }, {
+        "text": "She's a lady in the streets, _ in the sheets.",
+        "pick": 1
+    }, {
+        "text": "She's just one of the guys, you know? She likes beer, and football, and _.",
+        "pick": 1
+    }, {
+        "text": "Son, take it from someone who's been around the block a few times. Nothin' puts her in the mood like _.",
+        "pick": 1
+    }, {
+        "text": "Summer lovin', had me a blast. _, happened so fast.",
+        "pick": 1
+    }, {
+        "text": "\"The top Google auto-complete results for \"Barack Obama\":\n- Barack Obama Height.\n- Barack Obama net worth.\n- Barack Obama _.\"",
+        "pick": 1
+    }, {
+        "text": "Then the princess kissed the frog, and all of a sudden the frog was _!",
+        "pick": 1
+    }, {
+        "text": "There is no God. It's just _ and then you die.",
+        "pick": 1
+    }, {
+        "text": "This Friday at the Liquid Lunge, it's _ Night! Ladies drink free.",
+        "pick": 1
+    }, {
+        "text": "We do not shake with our left hands in this country. That is the hand we use for _.",
+        "pick": 1
+    }, {
+        "text": "Well if _ is a crime, then lock me up!",
+        "pick": 1
+    }, {
+        "text": "Well, shit. My eyes ain't so good, but I'll eat my own boot if that ain't _!",
+        "pick": 1
+    }, {
+        "text": "What are all those whales singing about?",
+        "pick": 1
+    }, {
+        "text": "What sucks balls?",
+        "pick": 1
+    }, {
+        "text": "What totally destroyed my asshole?",
+        "pick": 1
+    }, {
+        "text": "What turned me into a Republican?",
+        "pick": 1
+    }, {
+        "text": "What will end racism once and for all?",
+        "pick": 1
+    }, {
+        "text": "What's a total waste of Hillary Clinton's time?",
+        "pick": 1
+    }, {
+        "text": "What's about to take dance floor to the next level?",
+        "pick": 1
+    }, {
+        "text": "What's the gayest?",
+        "pick": 1
+    }, {
+        "text": "What's the most problematic?",
+        "pick": 1
+    }, {
+        "text": "Why am I laughing and crying and taking off my clothes?",
+        "pick": 1
+    }, {
+        "text": "With a one-time gift of just $10, you can save this child from _.",
+        "pick": 1
+    }, {
+        "text": "You know who else liked _? Hitler.",
+        "pick": 1
+    }, {
+        "text": "You won't believe what's in my pussy. It's _.",
+        "pick": 1
+    }],
+    "whiteCards": [{
+        "text": "Coat hanger abortions.",
+        "keepCap": false,
+        "tags": ["violence", "sexual", "body", "family", "negative", "science", "vulgar"]
+    }, {
+        "text": "Man meat.",
+        "keepCap": false,
+        "tags": ["sexual", "vulgar", "body", "gender"]
+    }, {
+        "text": "Aaron Burr.",
+        "keepCap": true,
+        "tags": ["person", "celebrity", "history"]
+    }, {
+        "text": "Autocannibalism.",
+        "keepCap": false,
+        "tags": ["activity", "violence", "food", "body", "person"]
+    }, {
+        "text": "Vigorous jazz hands.",
+        "keepCap": false,
+        "tags": ["activity", "art", "body"]
+    }, {
+        "text": "Flightless birds.",
+        "keepCap": false,
+        "tags": ["animal"]
+    }, {
+        "text": "Pictures of boobs.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "technology"]
+    }, {
+        "text": "Doing the right thing.",
+        "keepCap": false,
+        "tags": ["activity", "positive", "social", "concept"]
+    }, {
+        "text": "The violation of our most basic human rights.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "social"]
+    }, {
+        "text": "Viagra.",
+        "keepCap": true,
+        "tags": ["product", "sexual", "drug"]
+    }, {
+        "text": "Self-loathing.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "mind", "emotion"]
+    }, {
+        "text": "Spectacular abs.",
+        "keepCap": false,
+        "tags": ["body", "positive"]
+    }, {
+        "text": "A balanced breakfast.",
+        "keepCap": false,
+        "tags": ["positive", "food"]
+    }, {
+        "text": "Roofies.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Concealing a boner.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "body", "gender"]
+    }, {
+        "text": "Amputees.",
+        "keepCap": false,
+        "tags": ["group", "body"]
+    }, {
+        "text": "The Big Bang.",
+        "keepCap": false,
+        "tags": ["event", "science", "history"]
+    }, {
+        "text": "Former President George W. Bush.",
+        "keepCap": false,
+        "tags": ["person", "celebrity", "politics"]
+    }, {
+        "text": "The Rev. Dr. Martin Luther King, Jr.",
+        "keepCap": false,
+        "tags": ["person", "celebrity", "religion"]
+    }, {
+        "text": "Smegma.",
+        "keepCap": false,
+        "tags": ["body", "gender"]
+    }, {
+        "text": "Being marginalized.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "social"]
+    }, {
+        "text": "Cuddling.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "Laying an egg.",
+        "keepCap": false,
+        "tags": ["activity", "animal", "nature"]
+    }, {
+        "text": "The Pope.",
+        "keepCap": false,
+        "tags": ["person", "celebrity", "religion"]
+    }, {
+        "text": "Genital piercings.",
+        "keepCap": false,
+        "tags": ["sexual", "violence", "body", "clothing"]
+    }, {
+        "text": "Fingering.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "A bleached asshole.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "clothing"]
+    }, {
+        "text": "Horse meat.",
+        "keepCap": false,
+        "tags": ["animal", "food"]
+    }, {
+        "text": "Fear itself.",
+        "keepCap": false,
+        "tags": ["concept", "emotion"]
+    }, {
+        "text": "Science.",
+        "keepCap": false,
+        "tags": ["science"]
+    }, {
+        "text": "Elderly Japanese men.",
+        "keepCap": false,
+        "tags": ["person", "geography", "age"]
+    }, {
+        "text": "Stranger danger.",
+        "keepCap": false,
+        "tags": ["concept", "group"]
+    }, {
+        "text": "The terrorists.",
+        "keepCap": false,
+        "tags": ["group", "violence", "politics"]
+    }, {
+        "text": "Praying the gay away.",
+        "keepCap": false,
+        "tags": ["activity", "religion", "gender", "person"]
+    }, {
+        "text": "Same-sex ice dancing.",
+        "keepCap": false,
+        "tags": ["activity", "gender", "sport"]
+    }, {
+        "text": "Ethnic cleansing.",
+        "keepCap": false,
+        "tags": ["negative", "violence", "politics", "geography"]
+    }, {
+        "text": "Cheating in the Special Olympics.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "sport", "group"]
+    }, {
+        "text": "German dungeon porn.",
+        "keepCap": true,
+        "tags": ["sexual", "bonkers", "geography"]
+    }, {
+        "text": "Bingeing and purging.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "food", "body"]
+    }, {
+        "text": "Making a pouty face.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "emotion", "communication"]
+    }, {
+        "text": "William Shatner.",
+        "keepCap": true,
+        "tags": ["person", "celebrity"]
+    }, {
+        "text": "Heteronormativity.",
+        "keepCap": false,
+        "tags": ["concept", "gender"]
+    }, {
+        "text": "Nickelback.",
+        "keepCap": true,
+        "tags": ["group", "celebrity", "music"]
+    }, {
+        "text": "Tom Cruise.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "The profoundly handicapped.",
+        "keepCap": false,
+        "tags": ["group", "body", "mind"]
+    }, {
+        "text": "The placenta.",
+        "keepCap": false,
+        "tags": ["body", "gender", "nature"]
+    }, {
+        "text": "Chainsaws for hands.",
+        "keepCap": false,
+        "tags": ["bonkers", "violence", "body"]
+    }, {
+        "text": "Arnold Schwarzenegger.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "politics"]
+    }, {
+        "text": "An icepick lobotomy.",
+        "keepCap": false,
+        "tags": ["violence", "mind"]
+    }, {
+        "text": "Goblins.",
+        "keepCap": false,
+        "tags": ["group", "animal"]
+    }, {
+        "text": "Object permanence.",
+        "keepCap": false,
+        "tags": ["concept", "mind"]
+    }, {
+        "text": "Dying.",
+        "keepCap": false,
+        "tags": ["violence", "event", "body"]
+    }, {
+        "text": "Foreskin.",
+        "keepCap": false,
+        "tags": ["body", "gender"]
+    }, {
+        "text": "A falcon with a cap on its head.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "clothing"]
+    }, {
+        "text": "Hormone injections.",
+        "keepCap": false,
+        "tags": ["body", "drug"]
+    }, {
+        "text": "Dying of dysentery.",
+        "keepCap": false,
+        "tags": ["activity", "violence", "disease"]
+    }, {
+        "text": "Sexy pillow fights.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "The invisible hand.",
+        "keepCap": false,
+        "tags": ["concept", "money", "politics"]
+    }, {
+        "text": "A really cool hat.",
+        "keepCap": false,
+        "tags": ["positive", "clothing"]
+    }, {
+        "text": "Sean Penn.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Heartwarming orphans.",
+        "keepCap": false,
+        "tags": ["group", "positive", "age", "family"]
+    }, {
+        "text": "The clitoris.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "The Three-Fifths compromise.",
+        "keepCap": false,
+        "tags": ["concept", "group", "negative", "politics", "race", "history"]
+    }, {
+        "text": "A sad handjob.",
+        "keepCap": false,
+        "tags": ["negative", "sexual", "body"]
+    }, {
+        "text": "Men.",
+        "keepCap": false,
+        "tags": ["group", "gender"]
+    }, {
+        "text": "Historically black colleges.",
+        "keepCap": false,
+        "tags": ["concept", "history", "mind"]
+    }, {
+        "text": "A micropenis.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "size"]
+    }, {
+        "text": "Raptor attacks.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "Agriculture.",
+        "keepCap": false,
+        "tags": ["concept", "nature", "food"]
+    }, {
+        "text": "Vikings.",
+        "keepCap": false,
+        "tags": ["group", "history", "violence"]
+    }, {
+        "text": "Pretending to care.",
+        "keepCap": false,
+        "tags": ["activity", "emotion", "social"]
+    }, {
+        "text": "The Underground Railroad.",
+        "keepCap": false,
+        "tags": ["concept", "activity", "history", "race", "geography"]
+    }, {
+        "text": "My humps.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Being a dick to children.",
+        "keepCap": false,
+        "tags": ["emotion", "activity", "negative", "age"]
+    }, {
+        "text": "Geese.",
+        "keepCap": false,
+        "tags": ["animal"]
+    }, {
+        "text": "Bling.",
+        "keepCap": false,
+        "tags": ["money"]
+    }, {
+        "text": "Sniffing glue.",
+        "keepCap": false,
+        "tags": ["drug", "activity"]
+    }, {
+        "text": "The South.",
+        "keepCap": false,
+        "tags": ["concept", "geography", "history", "politics", "religion", "race"]
+    }, {
+        "text": "An Oedipus complex.",
+        "keepCap": false,
+        "tags": ["concept", "sexual", "family"]
+    }, {
+        "text": "Eating all of the cookies before the AIDS bake-sale.",
+        "keepCap": false,
+        "tags": ["bonkers", "activity", "food"]
+    }, {
+        "text": "Sexting.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "technology"]
+    }, {
+        "text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
+        "keepCap": true,
+        "tags": ["activity", "bonkers"]
+    }, {
+        "text": "Mutually-assured destruction.",
+        "keepCap": false,
+        "tags": ["concept", "violence", "politics"]
+    }, {
+        "text": "Sunshine and rainbows.",
+        "keepCap": false,
+        "tags": ["concept", "positive", "nature"]
+    }, {
+        "text": "Count Chocula.",
+        "keepCap": true,
+        "tags": ["food", "celebrity", "fictional"]
+    }, {
+        "text": "Sharing needles.",
+        "keepCap": false,
+        "tags": ["activity", "drug", "disease"]
+    }, {
+        "text": "Being rich.",
+        "keepCap": false,
+        "tags": ["concept", "money"]
+    }, {
+        "text": "Skeletor.",
+        "keepCap": true,
+        "tags": ["person", "celebrity", "fictional"]
+    }, {
+        "text": "A sausage festival.",
+        "keepCap": false,
+        "tags": ["group", "event", "food"]
+    }, {
+        "text": "Michael Jackson.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "music"]
+    }, {
+        "text": "Emotions.",
+        "keepCap": false,
+        "tags": ["emotion", "concept"]
+    }, {
+        "text": "Farting and walking away.",
+        "keepCap": false,
+        "tags": ["bonkers", "activity", "body", "social"]
+    }, {
+        "text": "The Chinese gymnastics team.",
+        "keepCap": false,
+        "tags": ["group", "geography"]
+    }, {
+        "text": "Necrophilia.",
+        "keepCap": false,
+        "tags": ["sexual", "vulgar", "body"]
+    }, {
+        "text": "Spontaneous human combustion.",
+        "keepCap": false,
+        "tags": ["violence", "science"]
+    }, {
+        "text": "Yeast.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Leaving an awkward voicemail.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "technology", "social"]
+    }, {
+        "text": "Dick Cheney.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "politics"]
+    }, {
+        "text": "White people.",
+        "keepCap": false,
+        "tags": ["group", "race", "history"]
+    }, {
+        "text": "Penis envy.",
+        "keepCap": false,
+        "tags": ["sexual", "emotion", "gender"]
+    }, {
+        "text": "Teaching a robot to love.",
+        "keepCap": false,
+        "tags": ["activity", "emotion", "technology", "mind"]
+    }, {
+        "text": "Sperm whales.",
+        "keepCap": false,
+        "tags": ["animal", "size"]
+    }, {
+        "text": "Scrubbing under the folds.",
+        "keepCap": false,
+        "tags": ["activity", "body", "gross"]
+    }, {
+        "text": "Panda sex.",
+        "keepCap": false,
+        "tags": ["animal", "sexual"]
+    }, {
+        "text": "Whipping it out.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "body", "person"]
+    }, {
+        "text": "Catapults.",
+        "keepCap": false,
+        "tags": ["technology", "violence"]
+    }, {
+        "text": "Masturbation.",
+        "keepCap": false,
+        "tags": ["sexual", "activity", "body", "person"]
+    }, {
+        "text": "Natural selection.",
+        "keepCap": false,
+        "tags": ["concept", "animal", "history", "nature", "time"]
+    }, {
+        "text": "Opposable thumbs.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "A sassy black woman.",
+        "keepCap": false,
+        "tags": ["person", "emotion", "race"]
+    }, {
+        "text": "AIDS.",
+        "keepCap": true,
+        "tags": ["disease"]
+    }, {
+        "text": "The KKK.",
+        "keepCap": false,
+        "tags": ["group", "negative", "race"]
+    }, {
+        "text": "Figgy pudding.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Seppuku.",
+        "keepCap": false,
+        "tags": ["activity", "violence", "body", "person"]
+    }, {
+        "text": "Gandhi.",
+        "keepCap": true,
+        "tags": ["person", "celebrity", "history"]
+    }, {
+        "text": "Preteens.",
+        "keepCap": false,
+        "tags": ["group", "age"]
+    }, {
+        "text": "Toni Morrison's vagina.",
+        "keepCap": true,
+        "tags": ["sexual", "celebrity", "person"]
+    }, {
+        "text": "Five-Dollar Footlongs.",
+        "keepCap": false,
+        "tags": ["food", "money", "size"]
+    }, {
+        "text": "Land mines.",
+        "keepCap": false,
+        "tags": ["technology", "violence"]
+    }, {
+        "text": "A sea of troubles.",
+        "keepCap": false,
+        "tags": ["metaphor", "emotion"]
+    }, {
+        "text": "A zesty breakfast burrito.",
+        "keepCap": false,
+        "tags": ["food", "sense"]
+    }, {
+        "text": "Christopher Walken.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Friction.",
+        "keepCap": false,
+        "tags": ["science", "concept"]
+    }, {
+        "text": "Balls.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual", "body"]
+    }, {
+        "text": "Dental dams.",
+        "keepCap": false,
+        "tags": ["sexual", "technology"]
+    }, {
+        "text": "A can of whoop-ass.",
+        "keepCap": false,
+        "tags": ["metaphor"]
+    }, {
+        "text": "A tiny horse.",
+        "keepCap": false,
+        "tags": ["animal", "size"]
+    }, {
+        "text": "Waiting 'til marriage.",
+        "keepCap": false,
+        "tags": ["concept", "family", "sexual"]
+    }, {
+        "text": "Authentic Mexican cuisine.",
+        "keepCap": false,
+        "tags": ["food", "geography"]
+    }, {
+        "text": "Genghis Khan.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "violence", "history", "geography"]
+    }, {
+        "text": "Old-people smell.",
+        "keepCap": false,
+        "tags": ["sense", "age", "group"]
+    }, {
+        "text": "Feeding Rosie O'Donnell.",
+        "keepCap": false,
+        "tags": ["food", "celebrity", "person"]
+    }, {
+        "text": "Pixelated bukkake.",
+        "keepCap": false,
+        "tags": ["sexual", "technology"]
+    }, {
+        "text": "Friends with benefits.",
+        "keepCap": false,
+        "tags": ["concept", "sexual", "person", "social"]
+    }, {
+        "text": "The token minority.",
+        "keepCap": false,
+        "tags": ["concept", "group", "race", "person"]
+    }, {
+        "text": "The Tempur-Pedic Swedish Sleep System.",
+        "keepCap": false,
+        "tags": ["technology", "product"]
+    }, {
+        "text": "A thermonuclear detonation.",
+        "keepCap": false,
+        "tags": ["violence", "technology", "science"]
+    }, {
+        "text": "Take-backsies.",
+        "keepCap": false,
+        "tags": ["concept", "social"]
+    }, {
+        "text": "The Rapture.",
+        "keepCap": false,
+        "tags": ["event", "religion"]
+    }, {
+        "text": "A cooler full of organs.",
+        "keepCap": false,
+        "tags": ["body", "science"]
+    }, {
+        "text": "Sweet, sweet vengeance.",
+        "keepCap": false,
+        "tags": ["concept", "emotion"]
+    }, {
+        "text": "RoboCop.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "fictional", "technology"]
+    }, {
+        "text": "Keanu Reeves.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Drinking alone.",
+        "keepCap": false,
+        "tags": ["activity", "drug", "person"]
+    }, {
+        "text": "Giving 110%.",
+        "keepCap": false,
+        "tags": ["concept", "activity", "metaphor"]
+    }, {
+        "text": "Flesh-eating bacteria.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "The American Dream.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor", "politics", "family", "money"]
+    }, {
+        "text": "Taking off your shirt.",
+        "keepCap": false,
+        "tags": ["activity", "body", "clothing"]
+    }, {
+        "text": "Me time.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "time", "person"]
+    }, {
+        "text": "A murder most foul.",
+        "keepCap": false,
+        "tags": ["violence", "person", "social"]
+    }, {
+        "text": "The inevitable heat death of the universe.",
+        "keepCap": false,
+        "tags": ["science", "time"]
+    }, {
+        "text": "The folly of man.",
+        "keepCap": false,
+        "tags": ["concept", "group"]
+    }, {
+        "text": "That thing that electrocutes your abs.",
+        "keepCap": false,
+        "tags": ["technology", "body"]
+    }, {
+        "text": "Cards Against Humanity.",
+        "keepCap": true,
+        "tags": ["activity"]
+    }, {
+        "text": "Fiery poops.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Poor people.",
+        "keepCap": false,
+        "tags": ["group", "money", "social"]
+    }, {
+        "text": "Edible underpants.",
+        "keepCap": false,
+        "tags": ["food", "sexual", "clothing"]
+    }, {
+        "text": "Britney Spears at 55.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "age"]
+    }, {
+        "text": "All-you-can-eat shrimp for $4.99.",
+        "keepCap": false,
+        "tags": ["food", "money"]
+    }, {
+        "text": "Pooping back and forth. Forever.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "gross"]
+    }, {
+        "text": "Fancy Feast.",
+        "keepCap": true,
+        "tags": ["food", "animal"]
+    }, {
+        "text": "Jewish fraternities.",
+        "keepCap": true,
+        "tags": ["group", "race", "social", "politics"]
+    }, {
+        "text": "Being a motherfucking sorcerer.",
+        "keepCap": false,
+        "tags": ["vulgar", "person", "religion"]
+    }, {
+        "text": "Pulling out.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "Picking up girls at the abortion clinic.",
+        "keepCap": false,
+        "tags": ["activity", "vulgar", "social", "gender"]
+    }, {
+        "text": "The homosexual agenda.",
+        "keepCap": false,
+        "tags": ["concept", "gender"]
+    }, {
+        "text": "The Holy Bible.",
+        "keepCap": false,
+        "tags": ["religion", "art"]
+    }, {
+        "text": "Passive-agression.",
+        "keepCap": false,
+        "tags": ["concept", "activity", "emotion", "negative"]
+    }, {
+        "text": "Ronald Reagan.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "politics"]
+    }, {
+        "text": "Vehicular manslaughter.",
+        "keepCap": false,
+        "tags": ["violence", "technology"]
+    }, {
+        "text": "Nipple blades.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "violence"]
+    }, {
+        "text": "Assless chaps.",
+        "keepCap": false,
+        "tags": ["clothing"]
+    }, {
+        "text": "Full frontal nudity.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Hulk Hogan.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Daddy issues.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "gender", "family"]
+    }, {
+        "text": "The hardworking Mexican.",
+        "keepCap": false,
+        "tags": ["group", "geography"]
+    }, {
+        "text": "Natalie Portman.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Waking up half-naked in a Denny's parking lot.",
+        "keepCap": false,
+        "tags": ["bonkers", "geography", "activity", "body", "product", "food", "time"]
+    }, {
+        "text": "God.",
+        "keepCap": true,
+        "tags": ["religion"]
+    }, {
+        "text": "Sean Connery.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Saxophone solos.",
+        "keepCap": false,
+        "tags": ["music"]
+    }, {
+        "text": "Gloryholes.",
+        "keepCap": false,
+        "tags": ["sexual", "geography"]
+    }, {
+        "text": "The World of Warcraft.",
+        "keepCap": false,
+        "tags": ["activity", "social"]
+    }, {
+        "text": "Homeless people.",
+        "keepCap": false,
+        "tags": ["group", "money"]
+    }, {
+        "text": "Scalping.",
+        "keepCap": false,
+        "tags": ["activity", "violence", "money"]
+    }, {
+        "text": "Darth Vader.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "fictional"]
+    }, {
+        "text": "Eating the last known bison.",
+        "keepCap": false,
+        "tags": ["animal", "food", "history"]
+    }, {
+        "text": "Guys who don't call.",
+        "keepCap": false,
+        "tags": ["emotion", "group", "gender", "social", "communication"]
+    }, {
+        "text": "Hot Pockets.",
+        "keepCap": true,
+        "tags": ["food", "technology", "product"]
+    }, {
+        "text": "A time travel paradox.",
+        "keepCap": false,
+        "tags": ["concept", "science", "time", "fictional"]
+    }, {
+        "text": "The milk man.",
+        "keepCap": false,
+        "tags": ["person", "food"]
+    }, {
+        "text": "Testicular torsion.",
+        "keepCap": false,
+        "tags": ["body", "violence", "gender"]
+    }, {
+        "text": "Dropping a chandelier on your enemies and riding the rope up.",
+        "keepCap": false,
+        "tags": ["bonkers", "violence", "activity"]
+    }, {
+        "text": "World peace.",
+        "keepCap": false,
+        "tags": ["concept", "geography", "politics", "positive", "religion", "race"]
+    }, {
+        "text": "A salty surprise.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "sense"]
+    }, {
+        "text": "Poorly-timed Holocaust jokes.",
+        "keepCap": false,
+        "tags": ["vulgar", "violence", "history", "concept"]
+    }, {
+        "text": "Smallpox blankets.",
+        "keepCap": false,
+        "tags": ["disease", "history", "negative"]
+    }, {
+        "text": "Licking things to claim them as your own.",
+        "keepCap": false,
+        "tags": ["activity", "bonkers", "body"]
+    }, {
+        "text": "The heart of a child.",
+        "keepCap": false,
+        "tags": ["body", "emotion", "concept", "age"]
+    }, {
+        "text": "Robert Downey, Jr.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Lockjaw.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "Eugenics.",
+        "keepCap": false,
+        "tags": ["concept", "science"]
+    }, {
+        "text": "A good sniff.",
+        "keepCap": false,
+        "tags": ["activity", "sense"]
+    }, {
+        "text": "Friendly fire.",
+        "keepCap": false,
+        "tags": ["violence"]
+    }, {
+        "text": "The taint; the grundle; the fleshy fun-bridge.",
+        "keepCap": false,
+        "tags": ["body", "bonkers"]
+    }, {
+        "text": "Wearing underwear inside-out to avoid doing laundry.",
+        "keepCap": false,
+        "tags": ["clothing", "activity", "concept"]
+    }, {
+        "text": "Hurricane Katrina.",
+        "keepCap": true,
+        "tags": ["violence", "nature"]
+    }, {
+        "text": "Free samples.",
+        "keepCap": false,
+        "tags": ["product", "money"]
+    }, {
+        "text": "Jerking off into a pool of children's tears.",
+        "keepCap": false,
+        "tags": ["vulgar", "bonkers", "sexual"]
+    }, {
+        "text": "A foul mouth.",
+        "keepCap": false,
+        "tags": ["body", "emotion", "vulgar"]
+    }, {
+        "text": "The glass ceiling.",
+        "keepCap": false,
+        "tags": ["concept", "gender"]
+    }, {
+        "text": "Republicans.",
+        "keepCap": false,
+        "tags": ["group", "politics"]
+    }, {
+        "text": "Explosions.",
+        "keepCap": false,
+        "tags": ["event", "violence"]
+    }, {
+        "text": "Michelle Obama's arms.",
+        "keepCap": true,
+        "tags": ["body", "celebrity", "person", "politics"]
+    }, {
+        "text": "Getting really high.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Attitude.",
+        "keepCap": false,
+        "tags": ["activity", "emotion"]
+    }, {
+        "text": "Sarah Palin.",
+        "keepCap": true,
+        "tags": ["person", "clothing", "celebrity", "politics"]
+    }, {
+        "text": "The Übermensch.",
+        "keepCap": false,
+        "tags": ["concept", "person"]
+    }, {
+        "text": "Altar boys.",
+        "keepCap": false,
+        "tags": ["group", "religion", "age"]
+    }, {
+        "text": "My soul.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "body", "person", "mind"]
+    }, {
+        "text": "My sex life.",
+        "keepCap": false,
+        "tags": ["sexual", "concept"]
+    }, {
+        "text": "Pedophiles.",
+        "keepCap": false,
+        "tags": ["group", "sexual", "vulgar", "age"]
+    }, {
+        "text": "72 virgins.",
+        "keepCap": false,
+        "tags": ["concept", "sexual", "violence", "group"]
+    }, {
+        "text": "Pabst Blue Ribbon.",
+        "keepCap": true,
+        "tags": ["food", "drug", "product"]
+    }, {
+        "text": "Domino's Oreo Dessert Pizza.",
+        "keepCap": true,
+        "tags": ["food", "product"]
+    }, {
+        "text": "A snapping turtle biting the tip of your penis.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers", "animal", "violence"]
+    }, {
+        "text": "The Blood of Christ.",
+        "keepCap": false,
+        "tags": ["body", "food", "religion"]
+    }, {
+        "text": "Half-assed foreplay.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "My collection of high-tech sex toys.",
+        "keepCap": false,
+        "tags": ["sexual", "technology"]
+    }, {
+        "text": "A middle-aged man on roller skates.",
+        "keepCap": false,
+        "tags": ["person", "activity", "age"]
+    }, {
+        "text": "Bitches.",
+        "keepCap": false,
+        "tags": ["gender", "group", "vulgar"]
+    }, {
+        "text": "Bill Nye the Science Guy.",
+        "keepCap": true,
+        "tags": ["person", "celebrity", "science"]
+    }, {
+        "text": "Italians.",
+        "keepCap": true,
+        "tags": ["group", "history", "geography"]
+    }, {
+        "text": "A windmill full of corpses.",
+        "keepCap": false,
+        "tags": ["bonkers", "geography", "violence"]
+    }, {
+        "text": "Adderall.",
+        "keepCap": true,
+        "tags": ["drug"]
+    }, {
+        "text": "Crippling debt.",
+        "keepCap": false,
+        "tags": ["concept", "money"]
+    }, {
+        "text": "A stray pube.",
+        "keepCap": false,
+        "tags": ["body", "vulgar"]
+    }, {
+        "text": "Prancing.",
+        "keepCap": false,
+        "tags": ["activity"]
+    }, {
+        "text": "Passing a kidney stone.",
+        "keepCap": false,
+        "tags": ["disease", "violence", "body"]
+    }, {
+        "text": "A brain tumor.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "Leprosy.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "Puppies!",
+        "keepCap": false,
+        "tags": ["animal", "group"]
+    }, {
+        "text": "Bees?",
+        "keepCap": false,
+        "tags": ["animal", "group"]
+    }, {
+        "text": "Frolicking.",
+        "keepCap": false,
+        "tags": ["activity"]
+    }, {
+        "text": "Repression.",
+        "keepCap": false,
+        "tags": ["emotion"]
+    }, {
+        "text": "Road head.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "geography"]
+    }, {
+        "text": "A bag of magic beans.",
+        "keepCap": false,
+        "tags": ["bonkers", "fictional", "food"]
+    }, {
+        "text": "An asymmetric boob job.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Dead parents.",
+        "keepCap": false,
+        "tags": ["group", "family"]
+    }, {
+        "text": "Public ridicule.",
+        "keepCap": false,
+        "tags": ["concept", "negative", "social"]
+    }, {
+        "text": "A mating display.",
+        "keepCap": false,
+        "tags": ["animal", "body", "sexual", "nature"]
+    }, {
+        "text": "A mime having a stroke.",
+        "keepCap": false,
+        "tags": ["activity", "disease", "person", "art"]
+    }, {
+        "text": "Stephen Hawking talking dirty.",
+        "keepCap": true,
+        "tags": ["person", "activity", "sexual", "celebrity", "science", "bonkers"]
+    }, {
+        "text": "African children.",
+        "keepCap": true,
+        "tags": ["group", "geography", "age"]
+    }, {
+        "text": "Mouth herpes.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "Overcompensation.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "activity"]
+    }, {
+        "text": "Riding off into the sunset.",
+        "keepCap": false,
+        "tags": ["metaphor", "activity"]
+    }, {
+        "text": "Being on fire.",
+        "keepCap": false,
+        "tags": ["activity", "event", "violence", "body"]
+    }, {
+        "text": "Tangled Slinkys.",
+        "keepCap": false,
+        "tags": ["product"]
+    }, {
+        "text": "Civilian casualties.",
+        "keepCap": false,
+        "tags": ["violence", "group", "social"]
+    }, {
+        "text": "Auschwitz.",
+        "keepCap": true,
+        "tags": ["geography", "history", "violence"]
+    }, {
+        "text": "My genitals.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Not reciprocating oral sex.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "activity"]
+    }, {
+        "text": "Lactation.",
+        "keepCap": false,
+        "tags": ["body", "food"]
+    }, {
+        "text": "Being fabulous.",
+        "keepCap": false,
+        "tags": ["concept", "positive"]
+    }, {
+        "text": "Shaquille O'Neal's acting career.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "activity", "art"]
+    }, {
+        "text": "My relationship status.",
+        "keepCap": false,
+        "tags": ["emotion", "social"]
+    }, {
+        "text": "Asians who aren't good at math.",
+        "keepCap": true,
+        "tags": ["geography", "group", "science", "mind"]
+    }, {
+        "text": "Alcoholism.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "Incest.",
+        "keepCap": false,
+        "tags": ["person", "sexual", "family"]
+    }, {
+        "text": "Grave robbing.",
+        "keepCap": false,
+        "tags": ["activity", "vulgar", "money"]
+    }, {
+        "text": "Hope.",
+        "keepCap": false,
+        "tags": ["concept", "positive"]
+    }, {
+        "text": "8 oz. of sweet Mexican black-tar heroin.",
+        "keepCap": false,
+        "tags": ["drug", "geography", "size"]
+    }, {
+        "text": "Kids with ass cancer.",
+        "keepCap": false,
+        "tags": ["disease", "group", "age"]
+    }, {
+        "text": "Winking at old people.",
+        "keepCap": false,
+        "tags": ["activity", "group", "age"]
+    }, {
+        "text": "The Jews.",
+        "keepCap": false,
+        "tags": ["group", "religion", "race"]
+    }, {
+        "text": "Justin Bieber.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Doin' it in the butt.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "vulgar"]
+    }, {
+        "text": "A lifetime of sadness.",
+        "keepCap": false,
+        "tags": ["negative", "emotion", "time"]
+    }, {
+        "text": "The Hamburglar.",
+        "keepCap": false,
+        "tags": ["fictional", "person", "celebrity", "food"]
+    }, {
+        "text": "Swooping.",
+        "keepCap": false,
+        "tags": ["activity"]
+    }, {
+        "text": "Classist undertones.",
+        "keepCap": false,
+        "tags": ["concept", "group", "social", "money"]
+    }, {
+        "text": "New Age music.",
+        "keepCap": false,
+        "tags": ["music"]
+    }, {
+        "text": "Not giving a shit about the Third World.",
+        "keepCap": false,
+        "tags": ["geography", "negative", "social"]
+    }, {
+        "text": "The Kool-Aid Man.",
+        "keepCap": false,
+        "tags": ["fictional", "celebrity", "person", "food", "product"]
+    }, {
+        "text": "A hot mess.",
+        "keepCap": false,
+        "tags": ["metaphor", "negative", "concept"]
+    }, {
+        "text": "Tentacle porn.",
+        "keepCap": false,
+        "tags": ["violence", "sexual", "fictional", "animal", "vulgar"]
+    }, {
+        "text": "Lumberjack fantasies.",
+        "keepCap": false,
+        "tags": ["group", "sexual", "gender"]
+    }, {
+        "text": "The gays.",
+        "keepCap": false,
+        "tags": ["gender", "group"]
+    }, {
+        "text": "Scientology.",
+        "keepCap": true,
+        "tags": ["religion"]
+    }, {
+        "text": "Estrogen.",
+        "keepCap": false,
+        "tags": ["body", "drug", "gender"]
+    }, {
+        "text": "GoGurt.",
+        "keepCap": true,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Judge Judy.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "social"]
+    }, {
+        "text": "Dick fingers.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "bonkers"]
+    }, {
+        "text": "Racism.",
+        "keepCap": false,
+        "tags": ["geography", "group", "history", "negative"]
+    }, {
+        "text": "Surprise sex!",
+        "keepCap": false,
+        "tags": ["sexual", "emotion"]
+    }, {
+        "text": "Police brutality.",
+        "keepCap": false,
+        "tags": ["group", "violence", "social"]
+    }, {
+        "text": "Passable transvestites.",
+        "keepCap": false,
+        "tags": ["gender", "group"]
+    }, {
+        "text": "The Virginia Tech Massacre.",
+        "keepCap": false,
+        "tags": ["violence", "history", "geography", "social"]
+    }, {
+        "text": "When you fart and a little bit comes out.",
+        "keepCap": false,
+        "tags": ["vulgar", "body", "gross"]
+    }, {
+        "text": "Oompa-Loompas.",
+        "keepCap": true,
+        "tags": ["fictional", "group"]
+    }, {
+        "text": "A fetus.",
+        "keepCap": false,
+        "tags": ["person", "body", "age"]
+    }, {
+        "text": "Obesity.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "Tasteful sideboob.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Hot people.",
+        "keepCap": false,
+        "tags": ["body", "sexual", "group"]
+    }, {
+        "text": "BATMAN!!!",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "person"]
+    }, {
+        "text": "Black people.",
+        "keepCap": false,
+        "tags": ["group", "race"]
+    }, {
+        "text": "A gassy antelope.",
+        "keepCap": false,
+        "tags": ["body", "animal"]
+    }, {
+        "text": "Sexual tension.",
+        "keepCap": false,
+        "tags": ["sexual", "emotion"]
+    }, {
+        "text": "Third base.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Racially-biased SAT questions.",
+        "keepCap": false,
+        "tags": ["group", "concept", "race"]
+    }, {
+        "text": "Porn stars.",
+        "keepCap": false,
+        "tags": ["group", "sexual"]
+    }, {
+        "text": "A Super Soaker full of cat pee.",
+        "keepCap": false,
+        "tags": ["bonkers", "technology", "gross"]
+    }, {
+        "text": "Muhammed (Praise Be Unto Him).",
+        "keepCap": true,
+        "tags": ["religion"]
+    }, {
+        "text": "Puberty.",
+        "keepCap": false,
+        "tags": ["body", "event", "age"]
+    }, {
+        "text": "A disappointing birthday party.",
+        "keepCap": false,
+        "tags": ["event", "negative", "age", "activity"]
+    }, {
+        "text": "An erection that lasts longer than four hours.",
+        "keepCap": false,
+        "tags": ["event", "body", "sexual"]
+    }, {
+        "text": "White privilege.",
+        "keepCap": false,
+        "tags": ["concept", "group", "race", "social"]
+    }, {
+        "text": "Getting so angry that you pop a boner.",
+        "keepCap": false,
+        "tags": ["sexual", "violence", "bonkers"]
+    }, {
+        "text": "Wifely duties.",
+        "keepCap": false,
+        "tags": ["sexual", "gender"]
+    }, {
+        "text": "Two midgets shitting into a bucket.",
+        "keepCap": false,
+        "tags": ["bonkers", "group", "gross", "vulgar"]
+    }, {
+        "text": "Queefing.",
+        "keepCap": false,
+        "tags": ["body", "activity"]
+    }, {
+        "text": "Wiping her butt.",
+        "keepCap": false,
+        "tags": ["body", "activity", "gender", "vulgar"]
+    }, {
+        "text": "Golden showers.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "Barack Obama.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "politics", "race"]
+    }, {
+        "text": "Nazis.",
+        "keepCap": true,
+        "tags": ["group", "history", "race", "negative"]
+    }, {
+        "text": "A robust mongoloid.",
+        "keepCap": false,
+        "tags": ["concept", "person"]
+    }, {
+        "text": "An M. Night Shyamalan plot twist.",
+        "keepCap": false,
+        "tags": ["event", "art", "celebrity"]
+    }, {
+        "text": "Getting drunk on mouthwash.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Lunchables.",
+        "keepCap": false,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Women in yogurt commercials.",
+        "keepCap": false,
+        "tags": ["gender", "food", "art"]
+    }, {
+        "text": "John Wilkes Booth.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "history"]
+    }, {
+        "text": "Powerful thighs.",
+        "keepCap": false,
+        "tags": ["body", "size"]
+    }, {
+        "text": "Mr. Clean, right behind you.",
+        "keepCap": true,
+        "tags": ["celebrity", "geography", "person"]
+    }, {
+        "text": "Multiple stab wounds.",
+        "keepCap": false,
+        "tags": ["violence", "event"]
+    }, {
+        "text": "Cybernetic enhancements.",
+        "keepCap": false,
+        "tags": ["body", "technology"]
+    }, {
+        "text": "Serfdom.",
+        "keepCap": false,
+        "tags": ["group", "money", "politics"]
+    }, {
+        "text": "Kanye West.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Women's suffrage.",
+        "keepCap": false,
+        "tags": ["event", "gender", "history", "politics"]
+    }, {
+        "text": "Children on leashes.",
+        "keepCap": false,
+        "tags": ["concept", "body", "age"]
+    }, {
+        "text": "Harry Potter erotica.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "person", "sexual", "art"]
+    }, {
+        "text": "The Dance of the Sugar Plum Fairy.",
+        "keepCap": false,
+        "tags": ["art", "music"]
+    }, {
+        "text": "Lance Armstrong's missing testicle.",
+        "keepCap": true,
+        "tags": ["body", "disease", "celebrity", "person"]
+    }, {
+        "text": "Parting the Red Sea.",
+        "keepCap": false,
+        "tags": ["event", "religion"]
+    }, {
+        "text": "The Amish.",
+        "keepCap": false,
+        "tags": ["religion", "group"]
+    }, {
+        "text": "Dead babies.",
+        "keepCap": false,
+        "tags": ["group", "violence", "age"]
+    }, {
+        "text": "Child beauty pageants.",
+        "keepCap": false,
+        "tags": ["group", "event", "age"]
+    }, {
+        "text": "AXE Body Spray.",
+        "keepCap": true,
+        "tags": ["technology", "sense", "product"]
+    }, {
+        "text": "Centaurs.",
+        "keepCap": false,
+        "tags": ["fictional", "animal", "group", "person"]
+    }, {
+        "text": "Copping a feel.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Grandma.",
+        "keepCap": false,
+        "tags": ["person", "age", "gender"]
+    }, {
+        "text": "Famine.",
+        "keepCap": false,
+        "tags": ["food", "event"]
+    }, {
+        "text": "The Trail of Tears.",
+        "keepCap": false,
+        "tags": ["event", "history", "negative"]
+    }, {
+        "text": "The miracle of childbirth.",
+        "keepCap": false,
+        "tags": ["event", "body", "age", "gender", "person"]
+    }, {
+        "text": "Finger painting.",
+        "keepCap": false,
+        "tags": ["activity", "art", "body"]
+    }, {
+        "text": "A monkey smoking a cigar.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "drug"]
+    }, {
+        "text": "The Make-A-Wish Foundation.",
+        "keepCap": false,
+        "tags": ["group", "money", "social", "positive"]
+    }, {
+        "text": "Anal beads.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "The Force.",
+        "keepCap": false,
+        "tags": ["fictional", "religion", "concept"]
+    }, {
+        "text": "Kamikaze pilots.",
+        "keepCap": false,
+        "tags": ["group", "violence"]
+    }, {
+        "text": "Dry heaving.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "Active listening.",
+        "keepCap": false,
+        "tags": ["activity", "sense"]
+    }, {
+        "text": "Ghosts.",
+        "keepCap": false,
+        "tags": ["fictional", "group"]
+    }, {
+        "text": "The Hustle.",
+        "keepCap": false,
+        "tags": ["activity"]
+    }, {
+        "text": "Peeing a little bit.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Another goddamn vampire movie.",
+        "keepCap": false,
+        "tags": ["vulgar", "celebrity", "fictional", "art"]
+    }, {
+        "text": "Shapeshifters.",
+        "keepCap": false,
+        "tags": ["fictional", "animal", "group", "person"]
+    }, {
+        "text": "The Care Bear Stare.",
+        "keepCap": false,
+        "tags": ["bonkers", "activity", "animal", "fictional"]
+    }, {
+        "text": "Hot cheese.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "A mopey zoo lion.",
+        "keepCap": false,
+        "tags": ["animal", "negative"]
+    }, {
+        "text": "A defective condom.",
+        "keepCap": false,
+        "tags": ["technology", "sexual", "negative"]
+    }, {
+        "text": "Teenage pregnancy.",
+        "keepCap": false,
+        "tags": ["sexual", "negative", "age", "social"]
+    }, {
+        "text": "A Bop It.",
+        "keepCap": false,
+        "tags": ["technology", "product"]
+    }, {
+        "text": "Expecting a burp and vomiting on the floor.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Horrifying laser hair removal accidents.",
+        "keepCap": false,
+        "tags": ["body", "negative", "technology"]
+    }, {
+        "text": "Boogers.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Unfathomable stupidity.",
+        "keepCap": false,
+        "tags": ["concept", "negative", "mind"]
+    }, {
+        "text": "Breaking out into song and dance.",
+        "keepCap": false,
+        "tags": ["activity", "music"]
+    }, {
+        "text": "Soup that is too hot.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Morgan Freeman's voice.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Getting naked and watching Nickelodeon.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "MechaHitler.",
+        "keepCap": true,
+        "tags": ["fictional", "technology", "history"]
+    }, {
+        "text": "Flying sex snakes.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "sexual"]
+    }, {
+        "text": "The true meaning of Christmas.",
+        "keepCap": false,
+        "tags": ["concept", "social", "history"]
+    }, {
+        "text": "My inner demons.",
+        "keepCap": false,
+        "tags": ["emotion"]
+    }, {
+        "text": "Pac-Man uncontrollably guzzling cum.",
+        "keepCap": true,
+        "tags": ["vulgar", "bonkers"]
+    }, {
+        "text": "My vagina.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "A homoerotic volleyball montage.",
+        "keepCap": false,
+        "tags": ["gender", "activity", "art"]
+    }, {
+        "text": "Actually taking candy from a baby.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "Crystal meth.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Exactly what you'd expect.",
+        "keepCap": false,
+        "tags": ["concept", "mind"]
+    }, {
+        "text": "Natural male enhancement.",
+        "keepCap": false,
+        "tags": ["drug", "sexual"]
+    }, {
+        "text": "Passive-aggressive Post-it notes.",
+        "keepCap": false,
+        "tags": ["emotion", "thing"]
+    }, {
+        "text": "Inappropriate yodeling.",
+        "keepCap": false,
+        "tags": ["activity", "music"]
+    }, {
+        "text": "Lady Gaga.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "The Little Engine That Could.",
+        "keepCap": false,
+        "tags": ["celebrity", "fictional", "thing"]
+    }, {
+        "text": "Vigilante justice.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "A death ray.",
+        "keepCap": false,
+        "tags": ["violence", "technology"]
+    }, {
+        "text": "Poor life choices.",
+        "keepCap": false,
+        "tags": ["concept", "negative"]
+    }, {
+        "text": "A gentle caress of the inner thigh.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Embryonic stem cells.",
+        "keepCap": false,
+        "tags": ["body", "technology"]
+    }, {
+        "text": "Nicolas Cage.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Firing a rifle into the air while balls deep in a squealing hog.",
+        "keepCap": false,
+        "tags": ["bonkers", "sexual", "vulgar", "violence", "animal", "activity"]
+    }, {
+        "text": "Switching to Geico.",
+        "keepCap": false,
+        "tags": ["money"]
+    }, {
+        "text": "The chronic.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Erectile dysfunction.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "disease"]
+    }, {
+        "text": "Home video of Oprah sobbing into a Lean Cuisine.",
+        "keepCap": false,
+        "tags": ["celebrity", "food", "person", "negative"]
+    }, {
+        "text": "A bucket of fish heads.",
+        "keepCap": false,
+        "tags": ["animal", "size"]
+    }, {
+        "text": "50,000 volts straight to the nipples.",
+        "keepCap": false,
+        "tags": ["violence", "bonkers", "body"]
+    }, {
+        "text": "Being fat and stupid.",
+        "keepCap": false,
+        "tags": ["body", "emotion", "negative"]
+    }, {
+        "text": "Hospice care.",
+        "keepCap": false,
+        "tags": ["body", "positive", "group"]
+    }, {
+        "text": "A pyramid of severed heads.",
+        "keepCap": false,
+        "tags": ["violence", "body"]
+    }, {
+        "text": "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "A subscription to Men's Fitness.",
+        "keepCap": false,
+        "tags": ["product", "body", "gender"]
+    }, {
+        "text": "Crucifixion.",
+        "keepCap": false,
+        "tags": ["event", "religion", "violence"]
+    }, {
+        "text": "A micropig wearing a tiny raincoat and booties.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "clothing"]
+    }, {
+        "text": "Some god-damn peace and quiet.",
+        "keepCap": false,
+        "tags": ["activity", "concept", "vulgar"]
+    }, {
+        "text": "Used panties.",
+        "keepCap": false,
+        "tags": ["clothing", "body"]
+    }, {
+        "text": "A tribe of warrior women.",
+        "keepCap": false,
+        "tags": ["gender", "group", "violence"]
+    }, {
+        "text": "The penny whistle solo from \"My Heart Will Go On.\"",
+        "keepCap": false,
+        "tags": ["music"]
+    }, {
+        "text": "An oversized lollipop.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "Helplessly giggling at the mention of Hutus and Tutsis.",
+        "keepCap": false,
+        "tags": ["bonkers", "social", "history"]
+    }, {
+        "text": "Not wearing pants.",
+        "keepCap": false,
+        "tags": ["clothing", "negative"]
+    }, {
+        "text": "Consensual sex.",
+        "keepCap": false,
+        "tags": ["sexual", "positive"]
+    }, {
+        "text": "Her Majesty, Queen Elizabeth II.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Funky fresh rhymes.",
+        "keepCap": false,
+        "tags": ["music", "art"]
+    }, {
+        "text": "The art of seduction.",
+        "keepCap": false,
+        "tags": ["concept", "science", "sexual"]
+    }, {
+        "text": "The Devil himself.",
+        "keepCap": false,
+        "tags": ["celebrity", "fictional"]
+    }, {
+        "text": "Advice from a wise, old black man.",
+        "keepCap": false,
+        "tags": ["concept", "race"]
+    }, {
+        "text": "Destroying the evidence.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "The light of a billion suns.",
+        "keepCap": false,
+        "tags": ["concept", "nature"]
+    }, {
+        "text": "Wet dreams.",
+        "keepCap": false,
+        "tags": ["sexual", "mind"]
+    }, {
+        "text": "Synergistic management solutions.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Growing a pair.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "Silence.",
+        "keepCap": false,
+        "tags": ["concept", "sense"]
+    }, {
+        "text": "An M16 assault rifle.",
+        "keepCap": false,
+        "tags": ["violence", "technology", "thing"]
+    }, {
+        "text": "Poopy diapers.",
+        "keepCap": false,
+        "tags": ["clothing", "gross"]
+    }, {
+        "text": "A live studio audience.",
+        "keepCap": false,
+        "tags": ["group"]
+    }, {
+        "text": "The Great Depression.",
+        "keepCap": false,
+        "tags": ["history", "event"]
+    }, {
+        "text": "A spastic nerd.",
+        "keepCap": false,
+        "tags": ["person"]
+    }, {
+        "text": "Rush Limbaugh's soft, shitty body.",
+        "keepCap": true,
+        "tags": ["celebrity", "body"]
+    }, {
+        "text": "Tickling Sean Hannity, even after he tells you to stop.",
+        "keepCap": false,
+        "tags": ["celebrity", "activity"]
+    }, {
+        "text": "Stalin.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Brown people.",
+        "keepCap": false,
+        "tags": ["group", "race"]
+    }, {
+        "text": "Rehab.",
+        "keepCap": false,
+        "tags": ["drug", "disease", "geography"]
+    }, {
+        "text": "Capturing Newt Gingrich and forcing him to dance in a monkey suit.",
+        "keepCap": false,
+        "tags": ["celebrity", "bonkers"]
+    }, {
+        "text": "Battlefield amputations.",
+        "keepCap": false,
+        "tags": ["violence", "body"]
+    }, {
+        "text": "An uppercut.",
+        "keepCap": false,
+        "tags": ["body", "violence", "activity"]
+    }, {
+        "text": "Shiny objects.",
+        "keepCap": false,
+        "tags": ["thing", "concept"]
+    }, {
+        "text": "An ugly face.",
+        "keepCap": false,
+        "tags": ["body", "negative"]
+    }, {
+        "text": "Menstrual rage.",
+        "keepCap": false,
+        "tags": ["body", "violence", "gender"]
+    }, {
+        "text": "A bitch slap.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "One trillion dollars.",
+        "keepCap": false,
+        "tags": ["money", "size"]
+    }, {
+        "text": "Chunks of dead prostitute.",
+        "keepCap": false,
+        "tags": ["body", "violence"]
+    }, {
+        "text": "The entire Mormon Tabernacle Choir.",
+        "keepCap": false,
+        "tags": ["group", "religion", "art"]
+    }, {
+        "text": "The female orgasm.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Extremely tight pants.",
+        "keepCap": false,
+        "tags": ["clothing", "size"]
+    }, {
+        "text": "The Boy Scouts of America.",
+        "keepCap": false,
+        "tags": ["group", "social"]
+    }, {
+        "text": "Stormtroopers.",
+        "keepCap": false,
+        "tags": ["group", "violence"]
+    }, {
+        "text": "Throwing a virgin into a volcano.",
+        "keepCap": false,
+        "tags": ["concept", "history", "violence"]
+    }, {
+        "text": "Getting in her pants, politely.",
+        "keepCap": false,
+        "tags": ["sexual", "clothing"]
+    }, {
+        "text": "Gladiatorial combat.",
+        "keepCap": false,
+        "tags": ["violence", "history"]
+    }, {
+        "text": "Good grammar.",
+        "keepCap": false,
+        "tags": ["concept", "mind"]
+    }, {
+        "text": "Hipsters.",
+        "keepCap": false,
+        "tags": ["group"]
+    }, {
+        "text": "Gandalf.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "person"]
+    }, {
+        "text": "Genetically engineered super-soldiers.",
+        "keepCap": false,
+        "tags": ["violence", "science", "technology", "body", "group"]
+    }, {
+        "text": "George Clooney's musk.",
+        "keepCap": true,
+        "tags": ["celebrity", "sense"]
+    }, {
+        "text": "Getting abducted by Peter Pan.",
+        "keepCap": false,
+        "tags": ["celebrity", "activity"]
+    }, {
+        "text": "Eating an albino.",
+        "keepCap": false,
+        "tags": ["food", "body"]
+    }, {
+        "text": "Enormous Scandinavian women.",
+        "keepCap": false,
+        "tags": ["body", "geography", "person"]
+    }, {
+        "text": "Fabricating statistics.",
+        "keepCap": false,
+        "tags": ["science", "technology"]
+    }, {
+        "text": "Finding a skeleton.",
+        "keepCap": false,
+        "tags": ["body", "activity"]
+    }, {
+        "text": "Suicidal thoughts.",
+        "keepCap": false,
+        "tags": ["mind", "violence"]
+    }, {
+        "text": "Dancing with a broom.",
+        "keepCap": false,
+        "tags": ["activity"]
+    }, {
+        "text": "Deflowering the princess.",
+        "keepCap": false,
+        "tags": ["sexual", "gender", "activity"]
+    }, {
+        "text": "Dorito breath.",
+        "keepCap": true,
+        "tags": ["food", "body"]
+    }, {
+        "text": "One thousand Slim Jims.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "My machete.",
+        "keepCap": false,
+        "tags": ["violence", "thing"]
+    }, {
+        "text": "Overpowering your father.",
+        "keepCap": false,
+        "tags": ["activity", "body", "violence"]
+    }, {
+        "text": "Ominous background music.",
+        "keepCap": false,
+        "tags": ["music", "negative"]
+    }, {
+        "text": "Media coverage.",
+        "keepCap": false,
+        "tags": ["history", "concept"]
+    }, {
+        "text": "Making the penises kiss.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers", "gender"]
+    }, {
+        "text": "Moral ambiguity.",
+        "keepCap": false,
+        "tags": ["mind", "nature"]
+    }, {
+        "text": "Medieval Times Dinner & Tournament.",
+        "keepCap": false,
+        "tags": ["geography", "concept", "social"]
+    }, {
+        "text": "Mad hacky-sack skills.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "Just the tip.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Literally eating shit.",
+        "keepCap": false,
+        "tags": ["vulgar", "food"]
+    }, {
+        "text": "Leveling up.",
+        "keepCap": false,
+        "tags": ["concept", "event", "positive"]
+    }, {
+        "text": "Insatiable bloodlust.",
+        "keepCap": false,
+        "tags": ["violence", "body"]
+    }, {
+        "text": "Historical revisionism.",
+        "keepCap": false,
+        "tags": ["history"]
+    }, {
+        "text": "Jean-Claude Van Damme.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Jafar.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "negative"]
+    }, {
+        "text": "The boners of the elderly.",
+        "keepCap": false,
+        "tags": ["sexual", "vulgar"]
+    }, {
+        "text": "The economy.",
+        "keepCap": false,
+        "tags": ["money", "social", "science"]
+    }, {
+        "text": "Statistically validated stereotypes.",
+        "keepCap": false,
+        "tags": ["group", "science", "social"]
+    }, {
+        "text": "Sudden Poop Explosion Disease.",
+        "keepCap": true,
+        "tags": ["disease", "gross"]
+    }, {
+        "text": "Slow motion.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Space muffins.",
+        "keepCap": false,
+        "tags": ["bonkers", "food"]
+    }, {
+        "text": "Sexual humiliation.",
+        "keepCap": false,
+        "tags": ["sexual", "concept"]
+    }, {
+        "text": "Sexy Siamese twins.",
+        "keepCap": false,
+        "tags": ["bonkers", "body"]
+    }, {
+        "text": "Santa Claus.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional"]
+    }, {
+        "text": "Scrotum tickling.",
+        "keepCap": false,
+        "tags": ["sexual", "activity"]
+    }, {
+        "text": "Ripping into a man's chest and pulling out his still-beating heart.",
+        "keepCap": false,
+        "tags": ["violence", "concept"]
+    }, {
+        "text": "Ryan Gosling riding in on a white horse.",
+        "keepCap": true,
+        "tags": ["celebrity", "activity", "animal"]
+    }, {
+        "text": "Quivering jowls.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Revenge fucking.",
+        "keepCap": false,
+        "tags": ["violence", "sexual", "vulgar"]
+    }, {
+        "text": "Pistol-whipping a hostage.",
+        "keepCap": false,
+        "tags": ["violence", "person"]
+    }, {
+        "text": "Quiche.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Zeus's sexual appetites.",
+        "keepCap": true,
+        "tags": ["religion", "sexual", "food"]
+    }, {
+        "text": "Words, words, words.",
+        "keepCap": false,
+        "tags": ["mind", "concept"]
+    }, {
+        "text": "Tripping balls.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Being a busy adult with many important things to do.",
+        "keepCap": false,
+        "tags": ["concept", "age", "positive", "person"]
+    }, {
+        "text": "The four arms of Vishnu.",
+        "keepCap": false,
+        "tags": ["religion", "body"]
+    }, {
+        "text": "The shambling corpse of Larry King.",
+        "keepCap": false,
+        "tags": ["celebrity", "body"]
+    }, {
+        "text": "The hiccups.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "The harsh light of day.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "The Gulags.",
+        "keepCap": false,
+        "tags": ["geography", "negative"]
+    }, {
+        "text": "The Fanta girls.",
+        "keepCap": false,
+        "tags": ["group", "gender"]
+    }, {
+        "text": "A big black dick.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "A beached whale.",
+        "keepCap": false,
+        "tags": ["animal", "geography"]
+    }, {
+        "text": "A low standard of living.",
+        "keepCap": false,
+        "tags": ["money", "social"]
+    }, {
+        "text": "A nuanced critique.",
+        "keepCap": false,
+        "tags": ["concept", "mind"]
+    }, {
+        "text": "A bloody pacifier.",
+        "keepCap": false,
+        "tags": ["violence", "thing"]
+    }, {
+        "text": "A crappy little hand.",
+        "keepCap": false,
+        "tags": ["body", "negative", "size"]
+    }, {
+        "text": "Shaft.",
+        "keepCap": true,
+        "tags": ["thing", "celebrity", "fictional"]
+    }, {
+        "text": "Being a dinosaur.",
+        "keepCap": false,
+        "tags": ["animal", "concept"]
+    }, {
+        "text": "Beating your wives.",
+        "keepCap": false,
+        "tags": ["violence", "gender"]
+    }, {
+        "text": "Neil Patrick Harris.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Coughing into a vagina.",
+        "keepCap": false,
+        "tags": ["body", "activity", "vulgar"]
+    }, {
+        "text": "Carnies.",
+        "keepCap": false,
+        "tags": ["group"]
+    }, {
+        "text": "Nubile slave boys.",
+        "keepCap": false,
+        "tags": ["sexual", "group"]
+    }, {
+        "text": "Bosnian chicken farmers.",
+        "keepCap": true,
+        "tags": ["group", "animal"]
+    }, {
+        "text": "A web of lies.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "A rival dojo.",
+        "keepCap": false,
+        "tags": ["group", "social"]
+    }, {
+        "text": "A passionate Latino lover.",
+        "keepCap": false,
+        "tags": ["geography", "person"]
+    }, {
+        "text": "Panty raids.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "gender"]
+    }, {
+        "text": "Appreciative snapping.",
+        "keepCap": false,
+        "tags": ["activity", "positive"]
+    }, {
+        "text": "Apologizing.",
+        "keepCap": false,
+        "tags": ["activity", "concept"]
+    }, {
+        "text": "Clams.",
+        "keepCap": false,
+        "tags": ["nature", "animal"]
+    }, {
+        "text": "A woman scorned.",
+        "keepCap": false,
+        "tags": ["gender", "concept"]
+    }, {
+        "text": "Being awesome at sex.",
+        "keepCap": false,
+        "tags": ["sexual", "positive"]
+    }, {
+        "text": "Spring break!",
+        "keepCap": false,
+        "tags": ["event"]
+    }, {
+        "text": "Another shot of morphine.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Dining with cardboard cutouts of the cast of \"Friends.\"",
+        "keepCap": false,
+        "tags": ["bonkers", "celebrity", "group"]
+    }, {
+        "text": "A soulful rendition of \"Ol' Man River.\"",
+        "keepCap": false,
+        "tags": ["music", "emotion"]
+    }, {
+        "text": "Making a friend.",
+        "keepCap": false,
+        "tags": ["person", "activity"]
+    }, {
+        "text": "A sweaty, panting leather daddy.",
+        "keepCap": false,
+        "tags": ["person", "body", "clothing"]
+    }, {
+        "text": "Intimacy problems.",
+        "keepCap": false,
+        "tags": ["emotion", "concept"]
+    }, {
+        "text": "The new Radiohead album.",
+        "keepCap": false,
+        "tags": ["music", "celebrity"]
+    }, {
+        "text": "Pretty Pretty Princess Dress-Up Board Game.",
+        "keepCap": false,
+        "tags": ["gender", "product"]
+    }, {
+        "text": "A man in yoga pants with a ponytail and feather earrings.",
+        "keepCap": false,
+        "tags": ["clothing", "person"]
+    }, {
+        "text": "An army of skeletons.",
+        "keepCap": false,
+        "tags": ["group", "violence", "body"]
+    }, {
+        "text": "A squadron of moles wearing aviator goggles.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "clothing"]
+    }, {
+        "text": "Beefin' over turf.",
+        "keepCap": false,
+        "tags": ["geography", "violence"]
+    }, {
+        "text": "The Google.",
+        "keepCap": false,
+        "tags": ["concept", "technology"]
+    }, {
+        "text": "Bullshit.",
+        "keepCap": false,
+        "tags": ["concept", "negative"]
+    }, {
+        "text": "A sweet spaceship.",
+        "keepCap": false,
+        "tags": ["technology", "positive"]
+    }, {
+        "text": "A 55-gallon drum of lube.",
+        "keepCap": false,
+        "tags": ["size", "product"]
+    }, {
+        "text": "Special musical guest, Cher.",
+        "keepCap": false,
+        "tags": ["celebrity", "music"]
+    }, {
+        "text": "The human body.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Mild autism.",
+        "keepCap": false,
+        "tags": ["mind", "disease"]
+    }, {
+        "text": "Nunchuck moves.",
+        "keepCap": false,
+        "tags": ["violence", "activity"]
+    }, {
+        "text": "Whipping a disobedient slave.",
+        "keepCap": false,
+        "tags": ["violence", "person"]
+    }, {
+        "text": "An ether-soaked rag.",
+        "keepCap": false,
+        "tags": ["drug"]
+    }, {
+        "text": "Oncoming traffic.",
+        "keepCap": false,
+        "tags": ["technology"]
+    }, {
+        "text": "A dollop of sour cream.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "A slightly shittier parallel universe.",
+        "keepCap": false,
+        "tags": ["concept", "negative", "science"]
+    }, {
+        "text": "My first kill.",
+        "keepCap": false,
+        "tags": ["violence"]
+    }, {
+        "text": "Boris the Soviet Love Hammer.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "sexual"]
+    }, {
+        "text": "The grey nutrient broth that sustains Mitt Romney.",
+        "keepCap": false,
+        "tags": ["celebrity", "food"]
+    }, {
+        "text": "Tiny nipples.",
+        "keepCap": false,
+        "tags": ["body", "size"]
+    }, {
+        "text": "Power.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Death by Steven Seagal.",
+        "keepCap": false,
+        "tags": ["celebrity", "violence"]
+    }, {
+        "text": "A Burmese tiger pit.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "Basic human decency.",
+        "keepCap": false,
+        "tags": ["concept", "social"]
+    }, {
+        "text": "Grandpa's ashes.",
+        "keepCap": false,
+        "tags": ["person", "concept", "age"]
+    }, {
+        "text": "One Ring to rule them all.",
+        "keepCap": false,
+        "tags": ["fictional", "clothing"]
+    }, {
+        "text": "The day the birds attacked.",
+        "keepCap": false,
+        "tags": ["fictional", "event", "animal"]
+    }, {
+        "text": "Fetal alcohol syndrome.",
+        "keepCap": false,
+        "tags": ["disease", "drug"]
+    }, {
+        "text": "Graphic violence, adult language, and some sexual content.",
+        "keepCap": false,
+        "tags": ["violence", "vulgar", "sexual"]
+    }, {
+        "text": "A bigger, blacker dick.",
+        "keepCap": false,
+        "tags": ["body", "sexual", "vulgar"]
+    }, {
+        "text": "The mere concept of Applebee's.",
+        "keepCap": false,
+        "tags": ["food", "concept"]
+    }, {
+        "text": "A sad fat dragon with no friends.",
+        "keepCap": false,
+        "tags": ["animal", "fictional"]
+    }, {
+        "text": "A piñata full of scorpions.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers"]
+    }, {
+        "text": "Existing.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Hillary Clinton's death stare.",
+        "keepCap": true,
+        "tags": ["celebrity", "activity"]
+    }, {
+        "text": "Catastrophic urethral trauma.",
+        "keepCap": false,
+        "tags": ["violence", "body"]
+    }, {
+        "text": "Double penetration.",
+        "keepCap": false,
+        "tags": ["sexual"]
+    }, {
+        "text": "Daddy's belt.",
+        "keepCap": false,
+        "tags": ["person", "clothing"]
+    }, {
+        "text": "Swiftly achieving orgasm.",
+        "keepCap": false,
+        "tags": ["sexual", "time"]
+    }, {
+        "text": "Mooing.",
+        "keepCap": false,
+        "tags": ["animal", "sense"]
+    }, {
+        "text": "Rising from the grave.",
+        "keepCap": false,
+        "tags": ["body", "activity"]
+    }, {
+        "text": "Subduing a grizzly bear and making her your wife.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "activity", "gender", "family"]
+    }, {
+        "text": "Some really fucked-up shit.",
+        "keepCap": false,
+        "tags": ["concept", "vulgar"]
+    }, {
+        "text": "Weapons-grade plutonium.",
+        "keepCap": false,
+        "tags": ["technology"]
+    }, {
+        "text": "All of this blood.",
+        "keepCap": false,
+        "tags": ["violence"]
+    }, {
+        "text": "Scrotal frostbite.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+        "keepCap": false,
+        "tags": ["violence", "bonkers"]
+    }, {
+        "text": "The mixing of the races.",
+        "keepCap": false,
+        "tags": ["race"]
+    }, {
+        "text": "Pumping out a baby every nine months.",
+        "keepCap": false,
+        "tags": ["body", "nature"]
+    }, {
+        "text": "Tongue.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Loki, the trickster god.",
+        "keepCap": true,
+        "tags": ["religion"]
+    }, {
+        "text": "Whining like a little bitch.",
+        "keepCap": false,
+        "tags": ["activity", "emotion"]
+    }, {
+        "text": "Wearing an octopus for a hat.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "clothing"]
+    }, {
+        "text": "An unhinged ferris wheel rolling toward the sea.",
+        "keepCap": false,
+        "tags": ["bonkers", "event"]
+    }, {
+        "text": "Finding Waldo.",
+        "keepCap": false,
+        "tags": ["activity", "celebrity", "sense"]
+    }, {
+        "text": "Upgrading homeless people to mobile hotspots.",
+        "keepCap": false,
+        "tags": ["group", "technology"]
+    }, {
+        "text": "A magic hippie love cloud.",
+        "keepCap": false,
+        "tags": ["bonkers", "drug", "group"]
+    }, {
+        "text": "Fuck Mountain.",
+        "keepCap": true,
+        "tags": ["vulgar", "geography"]
+    }, {
+        "text": "Living in a trashcan.",
+        "keepCap": false,
+        "tags": ["concept", "negative", "person", "money"]
+    }, {
+        "text": "The corporations.",
+        "keepCap": false,
+        "tags": ["group", "money"]
+    }, {
+        "text": "Getting hilariously gang-banged by the Blue Man Group.",
+        "keepCap": false,
+        "tags": ["bonkers", "activity", "sexual", "group"]
+    }, {
+        "text": "Jeff Goldblum.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Survivor's guilt.",
+        "keepCap": false,
+        "tags": ["concept", "violence", "emotion"]
+    }, {
+        "text": "Me.",
+        "keepCap": false,
+        "tags": ["person"]
+    }, {
+        "text": "All my friends dying.",
+        "keepCap": false,
+        "tags": ["violence", "group"]
+    }, {
+        "text": "Shutting the fuck up.",
+        "keepCap": false,
+        "tags": ["activity", "vulgar"]
+    }, {
+        "text": "An ass disaster.",
+        "keepCap": false,
+        "tags": ["body", "negative"]
+    }, {
+        "text": "Some kind of bird-man.",
+        "keepCap": false,
+        "tags": ["concept", "person", "fictional"]
+    }, {
+        "text": "The entire Internet.",
+        "keepCap": false,
+        "tags": ["technology", "social"]
+    }, {
+        "text": "Going around punching people.",
+        "keepCap": false,
+        "tags": ["violence", "body"]
+    }, {
+        "text": "A boo-boo.",
+        "keepCap": false,
+        "tags": ["body", "violence"]
+    }, {
+        "text": "Indescribable loneliness.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "Having sex on top of a pizza.",
+        "keepCap": false,
+        "tags": ["sexual", "food"]
+    }, {
+        "text": "Chugging a lava lamp.",
+        "keepCap": false,
+        "tags": ["bonkers", "food", "technology"]
+    }, {
+        "text": "Warm, velvety muppet sex.",
+        "keepCap": false,
+        "tags": ["sexual", "sense"]
+    }, {
+        "text": "Running naked through a mall, pissing and shitting everywhere.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "vulgar"]
+    }, {
+        "text": "Nothing.",
+        "keepCap": false,
+        "tags": ["concept", "size"]
+    }, {
+        "text": "Samuel L. Jackson.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "Self-flagellation.",
+        "keepCap": false,
+        "tags": ["violence", "person", "body"]
+    }, {
+        "text": "The systematic destruction of an entire people and their way of life.",
+        "keepCap": false,
+        "tags": ["violence", "group", "concept"]
+    }, {
+        "text": "The Quesadilla Explosion Salad from Chili's.",
+        "keepCap": false,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Reverse cowgirl.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Vietnam flashbacks.",
+        "keepCap": true,
+        "tags": ["event", "negative", "emotion"]
+    }, {
+        "text": "Actually getting shot, for real.",
+        "keepCap": false,
+        "tags": ["violence", "activity"]
+    }, {
+        "text": "Not having sex.",
+        "keepCap": false,
+        "tags": ["sexual", "negative"]
+    }, {
+        "text": "Cock.",
+        "keepCap": false,
+        "tags": ["sexual", "vulgar"]
+    }, {
+        "text": "Dying alone and in pain.",
+        "keepCap": false,
+        "tags": ["violence", "negative", "emotion"]
+    }, {
+        "text": "A cop who is also a dog.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "person"]
+    }, {
+        "text": "The way white people is.",
+        "keepCap": false,
+        "tags": ["group", "race"]
+    }, {
+        "text": "Gay aliens.",
+        "keepCap": false,
+        "tags": ["group", "fictional", "gender"]
+    }, {
+        "text": "The primal, ball-slapping sex your parents are having right now.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "bonkers", "vulgar"]
+    }, {
+        "text": "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+        "keepCap": false,
+        "tags": ["animal", "vulgar", "emotion"]
+    }, {
+        "text": "A lamprey swimming up the toilet and latching onto your taint.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "Slapping a racist old lady.",
+        "keepCap": false,
+        "tags": ["history", "person", "negative"]
+    }, {
+        "text": "A black male in his early 20s, last seen wearing a hoodie.",
+        "keepCap": false,
+        "tags": ["person", "clothing"]
+    }, {
+        "text": "Jumping out at people.",
+        "keepCap": false,
+        "tags": ["activity", "group"]
+    }, {
+        "text": "Three months in the hole.",
+        "keepCap": false,
+        "tags": ["event", "negative", "body"]
+    }, {
+        "text": "Blood farts.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "The Land of Chocolate.",
+        "keepCap": false,
+        "tags": ["geography", "fictional"]
+    }, {
+        "text": "A botched circumcision.",
+        "keepCap": false,
+        "tags": ["body", "violence"]
+    }, {
+        "text": "My manservant, Claude.",
+        "keepCap": false,
+        "tags": ["fictional", "person"]
+    }, {
+        "text": "Vomiting mid-blowjob.",
+        "keepCap": false,
+        "tags": ["activity", "disease", "sexual"]
+    }, {
+        "text": "Letting everyone down.",
+        "keepCap": false,
+        "tags": ["emotion", "negative", "person", "group"]
+    }, {
+        "text": "Having shotguns for legs.",
+        "keepCap": false,
+        "tags": ["violence", "body", "bonkers"]
+    }, {
+        "text": "Bill Clinton, naked on a bearskin rug with a saxophone.",
+        "keepCap": true,
+        "tags": ["animal", "celebrity", "bonkers", "music"]
+    }, {
+        "text": "Mufasa's death scene.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "event", "violence"]
+    }, {
+        "text": "The Harlem Globetrotters.",
+        "keepCap": false,
+        "tags": ["group", "sport"]
+    }, {
+        "text": "Demonic possession.",
+        "keepCap": false,
+        "tags": ["religion", "concept"]
+    }, {
+        "text": "Fisting.",
+        "keepCap": false,
+        "tags": ["sexual", "violence"]
+    }, {
+        "text": "The thin veneer of situational causality that underlies porn.",
+        "keepCap": false,
+        "tags": ["concept", "sexual"]
+    }, {
+        "text": "Girls that always be textin'.",
+        "keepCap": false,
+        "tags": ["group", "activity", "technology"]
+    }, {
+        "text": "Blowing some dudes in an alley.",
+        "keepCap": false,
+        "tags": ["sexual", "geography", "group"]
+    }, {
+        "text": "A spontaneous conga line.",
+        "keepCap": false,
+        "tags": ["group", "event", "music"]
+    }, {
+        "text": "A vagina that leads to another dimension.",
+        "keepCap": false,
+        "tags": ["bonkers", "sexual", "body", "geography"]
+    }, {
+        "text": "Disco fever.",
+        "keepCap": false,
+        "tags": ["music", "body", "disease"]
+    }, {
+        "text": "Getting your dick stuck in a Chinese finger trap with another dick.",
+        "keepCap": false,
+        "tags": ["bonkers", "sexual"]
+    }, {
+        "text": "Drinking ten 5-hour ENERGYs to get fifty continuous hours of energy.",
+        "keepCap": false,
+        "tags": ["drug", "size"]
+    }, {
+        "text": "Sneezing, farting, and coming at the same time.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Some douche with an acoustic guitar.",
+        "keepCap": false,
+        "tags": ["person", "music"]
+    }, {
+        "text": "Spending lots of money.",
+        "keepCap": false,
+        "tags": ["money", "size"]
+    }, {
+        "text": "Putting an entire peanut butter and jelly sandwich into the VCR.",
+        "keepCap": false,
+        "tags": ["bonkers", "food", "technology"]
+    }, {
+        "text": "An unstoppable wave of fire ants.",
+        "keepCap": false,
+        "tags": ["animal", "group"]
+    }, {
+        "text": "A greased-up Matthew McConaughey.",
+        "keepCap": false,
+        "tags": ["celebrity", "body"]
+    }, {
+        "text": "Flying robots that kill people.",
+        "keepCap": false,
+        "tags": ["violence", "technology"]
+    }, {
+        "text": "Unlimited soup, salad, and breadsticks.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "Crying into the pages of Sylvia Plath.",
+        "keepCap": false,
+        "tags": ["emotion", "art"]
+    }, {
+        "text": "The moist, demanding chasm of his mouth.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Filling every orifice with butterscotch pudding.",
+        "keepCap": false,
+        "tags": ["bonkers", "food", "sexual"]
+    }, {
+        "text": "An all-midget production of Shakespeare's <i>Richard III</i>.",
+        "keepCap": false,
+        "tags": ["bonkers", "group", "art"]
+    }, {
+        "text": "Screaming like a maniac.",
+        "keepCap": false,
+        "tags": ["activity", "bonkers", "body"]
+    }, {
+        "text": "Not contributing to society in any meaningful way.",
+        "keepCap": false,
+        "tags": ["activity", "negative", "group", "person"]
+    }, {
+        "text": "A pile of squirming bodies.",
+        "keepCap": false,
+        "tags": ["body", "bonkers"]
+    }, {
+        "text": "Buying the right pants to be cool.",
+        "keepCap": false,
+        "tags": ["money", "clothing", "concept"]
+    }, {
+        "text": "Roland the Farter, flatulist to the king.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional"]
+    }, {
+        "text": "That ass.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "A surprising amount of hair.",
+        "keepCap": false,
+        "tags": ["body", "size"]
+    }, {
+        "text": "Eating Tom Selleck's mustache to gain his powers.",
+        "keepCap": false,
+        "tags": ["celebrity", "bonkers", "food", "body"]
+    }, {
+        "text": "Velcro.",
+        "keepCap": true,
+        "tags": ["product", "technology"]
+    }, {
+        "text": "A PowerPoint presentation.",
+        "keepCap": false,
+        "tags": ["technology", "product"]
+    }, {
+        "text": "Crazy opium eyes.",
+        "keepCap": false,
+        "tags": ["body", "drug"]
+    }, {
+        "text": "10 Incredible Facts About the Anus.",
+        "keepCap": false,
+        "tags": ["body", "vulgar"]
+    }, {
+        "text": "An interracial handshake.",
+        "keepCap": false,
+        "tags": ["concept", "body", "person"]
+    }, {
+        "text": "Moderate-to-severe joint pain.",
+        "keepCap": false,
+        "tags": ["disease", "body"]
+    }, {
+        "text": "Finally finishing off the Indians.",
+        "keepCap": false,
+        "tags": ["event", "group", "violence"]
+    }, {
+        "text": "Sugar madness.",
+        "keepCap": false,
+        "tags": ["food", "drug", "emotion"]
+    }, {
+        "text": "Actual mutants with medical conditions and no superpowers.",
+        "keepCap": false,
+        "tags": ["body", "disease", "group"]
+    }, {
+        "text": "The secret formula for ultimate female satisfaction.",
+        "keepCap": false,
+        "tags": ["body", "positive", "sexual"]
+    }, {
+        "text": "The complex geopolitical quagmire that is the Middle East.",
+        "keepCap": false,
+        "tags": ["geography", "politics"]
+    }, {
+        "text": "Fucking a corpse back to life.",
+        "keepCap": false,
+        "tags": ["vulgar", "body", "sexual"]
+    }, {
+        "text": "Neil Diamond's Greatest Hits.",
+        "keepCap": true,
+        "tags": ["celebrity", "art", "music"]
+    }, {
+        "text": "Calculating every mannerism so as not to suggest homosexuality.",
+        "keepCap": false,
+        "tags": ["gender", "person"]
+    }, {
+        "text": "Whatever a McRib is made of.",
+        "keepCap": false,
+        "tags": ["food", "product"]
+    }, {
+        "text": "No clothes on, penis in vagina.",
+        "keepCap": false,
+        "tags": ["sexual", "clothing", "body"]
+    }, {
+        "text": "All the single ladies.",
+        "keepCap": false,
+        "tags": ["music", "concept", "group"]
+    }, {
+        "text": "Whispering all sexy.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "How awesome I am.",
+        "keepCap": false,
+        "tags": ["concept", "person"]
+    }, {
+        "text": "Ass to mouth.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual", "body"]
+    }, {
+        "text": "Smoking crack, for instance.",
+        "keepCap": false,
+        "tags": ["drug", "concept"]
+    }, {
+        "text": "Falling into the toilet.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "A dance move that's just sex.",
+        "keepCap": false,
+        "tags": ["sexual", "activity"]
+    }, {
+        "text": "The size of my penis.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Some sort of Asian.",
+        "keepCap": false,
+        "tags": ["geography", "group", "person"]
+    }, {
+        "text": "A hopeless amount of spiders.",
+        "keepCap": false,
+        "tags": ["animal", "negative"]
+    }, {
+        "text": "Party Mexicans.",
+        "keepCap": false,
+        "tags": ["group", "concept"]
+    }, {
+        "text": "Drinking responsibly.",
+        "keepCap": false,
+        "tags": ["activity", "drug", "positive"]
+    }, {
+        "text": "The safe word.",
+        "keepCap": false,
+        "tags": ["positive", "concept"]
+    }, {
+        "text": "Angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night.",
+        "keepCap": true,
+        "tags": ["bonkers", "group"]
+    }, {
+        "text": "Bouncing up and down.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "Jizz.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Ambiguous sarcasm.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "A shiny rock that proves I love you.",
+        "keepCap": false,
+        "tags": ["concept", "money", "emotion"]
+    }, {
+        "text": "Dem titties.",
+        "keepCap": false,
+        "tags": ["vulgar", "body", "sexual"]
+    }, {
+        "text": "My worthless son.",
+        "keepCap": false,
+        "tags": ["negative", "person"]
+    }, {
+        "text": "Exploding pigeons.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "violence"]
+    }, {
+        "text": "A Ugandan warlord.",
+        "keepCap": false,
+        "tags": ["person", "violence", "geography", "politics"]
+    }, {
+        "text": "My sex dungeon.",
+        "keepCap": false,
+        "tags": ["sexual"]
+    }, {
+        "text": "A kiss on the lips.",
+        "keepCap": false,
+        "tags": ["body", "emotion"]
+    }, {
+        "text": "Child Protective Services.",
+        "keepCap": true,
+        "tags": ["group", "social"]
+    }, {
+        "text": "A Native American who solves crimes by going into the spirit world.",
+        "keepCap": false,
+        "tags": ["fictional", "person", "religion", "bonkers"]
+    }, {
+        "text": "Doo-doo.",
+        "keepCap": false,
+        "tags": ["body", "vulgar"]
+    }, {
+        "text": "The peaceful and nonthreatening rise of China.",
+        "keepCap": false,
+        "tags": ["politics", "positive", "geography"]
+    }, {
+        "text": "Sports.",
+        "keepCap": false,
+        "tags": ["sport"]
+    }, {
+        "text": "A fart.",
+        "keepCap": false,
+        "tags": ["body", "vulgar"]
+    }, {
+        "text": "Unquestioning obedience.",
+        "keepCap": false,
+        "tags": ["concept", "emotion", "person"]
+    }, {
+        "text": "Three consecutive seconds of happiness.",
+        "keepCap": false,
+        "tags": ["concept", "positive"]
+    }, {
+        "text": "Grammar nazis who are also regular Nazis.",
+        "keepCap": false,
+        "tags": ["group", "concept"]
+    }, {
+        "text": "Snorting coke off a clown's boner.",
+        "keepCap": false,
+        "tags": ["bonkers", "drug", "person"]
+    }, {
+        "text": "Africa.",
+        "keepCap": true,
+        "tags": ["geography"]
+    }, {
+        "text": "Depression.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "A horse with no legs.",
+        "keepCap": false,
+        "tags": ["animal", "body"]
+    }, {
+        "text": "The euphoric rush of strangling a drifter.",
+        "keepCap": false,
+        "tags": ["emotion", "violence", "person"]
+    }, {
+        "text": "Khakis.",
+        "keepCap": false,
+        "tags": ["clothing"]
+    }, {
+        "text": "Interspecies marriage.",
+        "keepCap": false,
+        "tags": ["animal", "person"]
+    }, {
+        "text": "A gender identity that can only be conveyed through slam poetry.",
+        "keepCap": false,
+        "tags": ["art", "gender"]
+    }, {
+        "text": "Almost giving money to a homeless person.",
+        "keepCap": false,
+        "tags": ["money", "person"]
+    }, {
+        "text": "Stuff a child's face with Fun Dip until he starts having fun.",
+        "keepCap": false,
+        "tags": ["activity", "food", "person", "violence"]
+    }, {
+        "text": "What Jesus would do.",
+        "keepCap": false,
+        "tags": ["religion", "metaphor"]
+    }, {
+        "text": "A for-real lizard that spits blood from its eyes.",
+        "keepCap": false,
+        "tags": ["animal", "concept", "gross"]
+    }, {
+        "text": "Blackula.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "race"]
+    }, {
+        "text": "The tiniest shred of evidence that God is real.",
+        "keepCap": false,
+        "tags": ["religion", "size", "mind"]
+    }, {
+        "text": "My dad's dumb fucking face.",
+        "keepCap": false,
+        "tags": ["vulgar", "person"]
+    }, {
+        "text": "Prince Ali,\nfabulous he,\nAli Ababwa.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "music"]
+    }, {
+        "text": "A manhole.",
+        "keepCap": false,
+        "tags": ["thing", "gender", "vulgar"]
+    }, {
+        "text": "A sex goblin with a carnival penis.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers"]
+    }, {
+        "text": "A bunch of idiots playing a card game instead of interacting like normal humans.",
+        "keepCap": false,
+        "tags": ["concept", "activity"]
+    }, {
+        "text": "A sex comet from Neptune that plunges the Earth into eternal sexiness.",
+        "keepCap": false,
+        "tags": ["sexual", "nature", "bonkers"]
+    }, {
+        "text": "Sharks with legs.",
+        "keepCap": false,
+        "tags": ["animal", "body"]
+    }, {
+        "text": "Injecting speed into one arm and horse tranquilizer into the other.",
+        "keepCap": false,
+        "tags": ["animal", "drug", "body"]
+    }, {
+        "text": "Lots and lots of abortions.",
+        "keepCap": false,
+        "tags": ["violence", "size", "age"]
+    }, {
+        "text": "Seeing things from Hitler's perspective",
+        "keepCap": false,
+        "tags": ["history", "person", "concept"]
+    }, {
+        "text": "Too much cocaine.",
+        "keepCap": false,
+        "tags": ["drug", "size"]
+    }, {
+        "text": "Doing the right stuff to her nipples.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Giant sperm from outer space.",
+        "keepCap": false,
+        "tags": ["bonkers", "nature"]
+    }, {
+        "text": "Oil!",
+        "keepCap": false,
+        "tags": ["concept", "geography", "nature"]
+    }, {
+        "text": "Ennui.",
+        "keepCap": false,
+        "tags": ["emotion"]
+    }, {
+        "text": "A powered exoskeleton.",
+        "keepCap": false,
+        "tags": ["technology", "science", "body"]
+    }, {
+        "text": "A disappointing salad.",
+        "keepCap": false,
+        "tags": ["food", "negative"]
+    }, {
+        "text": "Mom's new boyfriend.",
+        "keepCap": false,
+        "tags": ["person", "family"]
+    }, {
+        "text": "Unrelenting genital punishment.",
+        "keepCap": false,
+        "tags": ["violence", "sexual"]
+    }, {
+        "text": "Denzel.",
+        "keepCap": true,
+        "tags": ["celebrity", "person"]
+    }, {
+        "text": "The swim team, all at once.",
+        "keepCap": false,
+        "tags": ["group"]
+    }, {
+        "text": "The eight gay warlocks who dictate the rules of fashion.",
+        "keepCap": false,
+        "tags": ["clothing", "concept", "bonkers", "gender"]
+    }, {
+        "text": "Being nine years old.",
+        "keepCap": false,
+        "tags": ["concept", "body", "person"]
+    }, {
+        "text": "The unbelievable world of mushrooms.",
+        "keepCap": false,
+        "tags": ["nature", "concept"]
+    }, {
+        "text": "The Abercrombie & Fitch lifestyle.",
+        "keepCap": false,
+        "tags": ["product", "concept", "clothing"]
+    }, {
+        "text": "Vegetarian options.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "My first period.",
+        "keepCap": false,
+        "tags": ["body", "nature"]
+    }, {
+        "text": "Having been dead for a while.",
+        "keepCap": false,
+        "tags": ["body", "time"]
+    }, {
+        "text": "Backwards knees.",
+        "keepCap": false,
+        "tags": ["body"]
+    }, {
+        "text": "Being paralyzed from the neck down.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "Seeing my village burned and my family slaughtered before my eyes.",
+        "keepCap": false,
+        "tags": ["event", "violence"]
+    }, {
+        "text": "A zero-risk way to make $2,000 from home.",
+        "keepCap": false,
+        "tags": ["money"]
+    }, {
+        "text": "A crazy little thing called love.",
+        "keepCap": false,
+        "tags": ["concept", "emotion"]
+    }, {
+        "text": "Ancient Athenian boy-fucking",
+        "keepCap": false,
+        "tags": ["history", "sexual"]
+    }, {
+        "text": "Out-of-this-world bazongas.",
+        "keepCap": false,
+        "tags": ["body", "vulgar"]
+    }, {
+        "text": "The ghost of Marlon Brando.",
+        "keepCap": false,
+        "tags": ["celebrity", "bonkers"]
+    }, {
+        "text": "The basic suffering that pervades all of existence.",
+        "keepCap": false,
+        "tags": ["violence", "concept"]
+    }, {
+        "text": "Being worshipped as the one true God.",
+        "keepCap": false,
+        "tags": ["religion"]
+    }, {
+        "text": "Figuring out how to have sex with a dolphin.",
+        "keepCap": false,
+        "tags": ["animal", "sexual"]
+    }, {
+        "text": "All these decorative pillows.",
+        "keepCap": false,
+        "tags": ["thing", "group"]
+    }, {
+        "text": "A mouthful of potato salad.",
+        "keepCap": false,
+        "tags": ["food", "body", "size"]
+    }, {
+        "text": "Russian super-tuberculosis.",
+        "keepCap": true,
+        "tags": ["disease", "geography"]
+    }, {
+        "text": "A reason not to commit suicide.",
+        "keepCap": false,
+        "tags": ["violence", "emotion", "person"]
+    }, {
+        "text": "Going to a high school reunion on ketamine.",
+        "keepCap": false,
+        "tags": ["drug", "event", "group"]
+    }, {
+        "text": "The passage of time.",
+        "keepCap": false,
+        "tags": ["concept", "time"]
+    }, {
+        "text": "Child support payments.",
+        "keepCap": false,
+        "tags": ["money", "family"]
+    }, {
+        "text": "Changing a person's mind with logic and facts.",
+        "keepCap": false,
+        "tags": ["event", "person", "science"]
+    }, {
+        "text": "My boyfriend's stupid penis.",
+        "keepCap": false,
+        "tags": ["sexual", "negative", "gender"]
+    }, {
+        "text": "The tiger that killed my father.",
+        "keepCap": false,
+        "tags": ["violence", "animal"]
+    }, {
+        "text": "Genghis Khan's DNA.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "science"]
+    }, {
+        "text": "Boring vaginal sex.",
+        "keepCap": false,
+        "tags": ["sexual", "emotion", "body"]
+    }, {
+        "text": "40 acres and a mule.",
+        "keepCap": false,
+        "tags": ["concept", "history", "animal", "geography"]
+    }, {
+        "text": "A whole new kind of porn.",
+        "keepCap": false,
+        "tags": ["art", "sexual"]
+    }, {
+        "text": "Slowly easing down onto a cucumber.",
+        "keepCap": false,
+        "tags": ["food", "activity"]
+    }, {
+        "text": "Wearing glasses and sounding smart.",
+        "keepCap": false,
+        "tags": ["clothing", "activity"]
+    }, {
+        "text": "AIDS monkeys.",
+        "keepCap": true,
+        "tags": ["animal", "disease"]
+    }, {
+        "text": "A team of lawyers.",
+        "keepCap": false,
+        "tags": ["group", "social"]
+    }, {
+        "text": "Getting drive-by shot.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "Not believing in giraffes.",
+        "keepCap": false,
+        "tags": ["animal", "mind"]
+    }, {
+        "text": "Anal fissures like you wouldn't believe.",
+        "keepCap": false,
+        "tags": ["body", "disease"]
+    }, {
+        "text": "A giant powdery manbaby.",
+        "keepCap": false,
+        "tags": ["bonkers", "person"]
+    }, {
+        "text": "Cutting off a flamingo's legs with garden shears.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "P.F. Chang himself.",
+        "keepCap": true,
+        "tags": ["celebrity", "food", "product"]
+    }, {
+        "text": "An uninterrupted history of imperialism and exploitation.",
+        "keepCap": false,
+        "tags": ["history", "negative"]
+    }, {
+        "text": "A one-way ticket to Gary, Indiana.",
+        "keepCap": false,
+        "tags": ["geography"]
+    }, {
+        "text": "Daddy's credit card.",
+        "keepCap": false,
+        "tags": ["money", "family"]
+    }, {
+        "text": "September 11th, 2001.",
+        "keepCap": true,
+        "tags": ["event", "history", "violence"]
+    }, {
+        "text": "An unforgettable quinceañera.",
+        "keepCap": false,
+        "tags": ["event", "race", "group"]
+    }, {
+        "text": "Deez nuts.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual"]
+    }, {
+        "text": "Social justice warriors with flamethrowers of compassion.",
+        "keepCap": false,
+        "tags": ["bonkers", "group", "violence"]
+    }, {
+        "text": "Some shit-hot guitar licks.",
+        "keepCap": false,
+        "tags": ["music", "vulgar"]
+    }, {
+        "text": "Butt stuff.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Blackface.",
+        "keepCap": false,
+        "tags": ["race", "person"]
+    }, {
+        "text": "Blowjobs for everyone.",
+        "keepCap": false,
+        "tags": ["sexual", "group"]
+    }, {
+        "text": "Getting eaten alive by Guy Fieri.",
+        "keepCap": false,
+        "tags": ["celebrity", "food", "violence"]
+    }, {
+        "text": "Western standards of beauty.",
+        "keepCap": false,
+        "tags": ["concept", "geography", "nature"]
+    }, {
+        "text": "Ejaculating live bees and the bees are angry.",
+        "keepCap": false,
+        "tags": ["body", "animal", "violence", "sexual"]
+    }, {
+        "text": "My dead son's baseball glove.",
+        "keepCap": false,
+        "tags": ["clothing", "family", "emotion"]
+    }, {
+        "text": "Getting caught by the police and going to jail.",
+        "keepCap": false,
+        "tags": ["activity", "person", "group"]
+    }, {
+        "text": "A face full of horse cum.",
+        "keepCap": false,
+        "tags": ["vulgar", "animal"]
+    }, {
+        "text": "Free ice cream, yo.",
+        "keepCap": false,
+        "tags": ["concept", "food"]
+    }, {
+        "text": "The white half of Barack Obama.",
+        "keepCap": false,
+        "tags": ["celebrity", "family", "race"]
+    }, {
+        "text": "The black half of Barack Obama.",
+        "keepCap": false,
+        "tags": ["celebrity", "family", "race"]
+    }, {
+        "text": "An inability to form meaningful relationships.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "A bass drop so huge it tears the starry vault asunder to reveal the face of God.",
+        "keepCap": false,
+        "tags": ["bonkers", "concept", "music", "religion"]
+    }, {
+        "text": "Growing up chained to a radiator in perpetual darkness.",
+        "keepCap": false,
+        "tags": ["event", "violence", "bonkers", "negative", "person"]
+    }, {
+        "text": "Shitting all over the floor like a bad, bad girl.",
+        "keepCap": false,
+        "tags": ["vulgar", "bonkers", "body"]
+    }, {
+        "text": "A buttload of candy.",
+        "keepCap": false,
+        "tags": ["food", "vulgar"]
+    }, {
+        "text": "Sucking all the milk out of a yak.",
+        "keepCap": false,
+        "tags": ["animal", "food", "bonkers"]
+    }, {
+        "text": "Bullets.",
+        "keepCap": false,
+        "tags": ["violence", "technology"]
+    }, {
+        "text": "A man who is so cool that he rides on a motorcycle.",
+        "keepCap": false,
+        "tags": ["gender", "person", "technology"]
+    }, {
+        "text": "Sudden penis loss.",
+        "keepCap": false,
+        "tags": ["sexual", "violence"]
+    }, {
+        "text": "Getting all offended.",
+        "keepCap": false,
+        "tags": ["emotion"]
+    }, {
+        "text": "Crying and shitting and eating spaghetti.",
+        "keepCap": false,
+        "tags": ["vulgar", "bonkers", "food", "activity"]
+    }, {
+        "text": "One unforgettable night of passion.",
+        "keepCap": false,
+        "tags": ["concept", "event", "sexual"]
+    }, {
+        "text": "Being popular and good at sports.",
+        "keepCap": false,
+        "tags": ["concept", "sport", "social"]
+    }, {
+        "text": "Filling a man's anus with concrete.",
+        "keepCap": false,
+        "tags": ["bonkers", "violence", "body"]
+    }, {
+        "text": "Two whales fucking the shit out of each other.",
+        "keepCap": false,
+        "tags": ["violence", "animal"]
+    }, {
+        "text": "Cool, relateable cancer teens.",
+        "keepCap": false,
+        "tags": ["group", "disease", "emotion"]
+    }, {
+        "text": "The amount of gay I am.",
+        "keepCap": false,
+        "tags": ["person", "gender"]
+    }, {
+        "text": "A possible Muslim.",
+        "keepCap": false,
+        "tags": ["religion", "person"]
+    }, {
+        "text": "Unsheathing my massive horse cock.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual", "body", "animal"]
+    }, {
+        "text": "A bowl of gourds.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "The male gaze.",
+        "keepCap": false,
+        "tags": ["concept", "body", "gender", "activity"]
+    }, {
+        "text": "The power of the Dark Side.",
+        "keepCap": false,
+        "tags": ["concept", "negative", "fictional"]
+    }, {
+        "text": "Ripping a dog in half.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "A constant need for validation.",
+        "keepCap": false,
+        "tags": ["emotion", "social"]
+    }, {
+        "text": "Meaningless sex.",
+        "keepCap": false,
+        "tags": ["sexual", "emotion"]
+    }, {
+        "text": "Such a big boy.",
+        "keepCap": false,
+        "tags": ["concept", "gender"]
+    }, {
+        "text": "Throwing stones at a man until he dies.",
+        "keepCap": false,
+        "tags": ["violence", "person"]
+    }, {
+        "text": "Cancer.",
+        "keepCap": false,
+        "tags": ["disease"]
+    }, {
+        "text": "Like a million alligators.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers"]
+    }, {
+        "text": "Eating together like a god damn family for once.",
+        "keepCap": false,
+        "tags": ["food", "family", "vulgar"]
+    }, {
+        "text": "Cute boys.",
+        "keepCap": false,
+        "tags": ["group", "gender"]
+    }, {
+        "text": "Pussy.",
+        "keepCap": false,
+        "tags": ["body", "sexual", "vulgar"]
+    }, {
+        "text": "Being a terrible mother.",
+        "keepCap": false,
+        "tags": ["family", "negative"]
+    }, {
+        "text": "Never having sex again.",
+        "keepCap": false,
+        "tags": ["sexual", "negative"]
+    }, {
+        "text": "A pizza guy who fucked up.",
+        "keepCap": false,
+        "tags": ["person", "food", "negative"]
+    }, {
+        "text": "A whole lotta woman.",
+        "keepCap": false,
+        "tags": ["gender", "person", "body"]
+    }, {
+        "text": "The all-new Nissan Pathfinder with 0.9% APR financing!",
+        "keepCap": false,
+        "tags": ["product", "money", "technology"]
+    }, {
+        "text": "A peyote-fueled vision quest.",
+        "keepCap": false,
+        "tags": ["drug", "activity"]
+    }, {
+        "text": "Kale.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Breastfeeding a ten year old.",
+        "keepCap": false,
+        "tags": ["family", "food", "person"]
+    }, {
+        "text": "Crippling social anxiety.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "Immortality cream.",
+        "keepCap": false,
+        "tags": ["body", "science", "product"]
+    }, {
+        "text": "Texas.",
+        "keepCap": true,
+        "tags": ["geography"]
+    }, {
+        "text": "Teaching a girl how to handjob the penis.",
+        "keepCap": false,
+        "tags": ["sexual", "gender", "mind"]
+    }, {
+        "text": "A turd.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Shapes and colors.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Whatever you wish, mother.",
+        "keepCap": false,
+        "tags": ["family"]
+    }, {
+        "text": "The haunting stare of an Iraqi child.",
+        "keepCap": false,
+        "tags": ["person", "emotion", "geography"]
+    }, {
+        "text": "Robots who just want to party.",
+        "keepCap": false,
+        "tags": ["technology", "bonkers"]
+    }, {
+        "text": "A self-microwaving burrito.",
+        "keepCap": false,
+        "tags": ["technology", "food"]
+    }, {
+        "text": "Forgetting grandma's first name.",
+        "keepCap": false,
+        "tags": ["family", "mind", "person"]
+    }, {
+        "text": "Our new Buffalo Chicken Dippers!",
+        "keepCap": false,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Treasures beyond your wildest dreams.",
+        "keepCap": false,
+        "tags": ["money", "size"]
+    }, {
+        "text": "Getting shot out of a cannon.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "The sweet song of sword against and the braying of mighty war beasts.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "Walking into a glass door.",
+        "keepCap": false,
+        "tags": ["activity", "violence"]
+    }, {
+        "text": "The color \"puce\".",
+        "keepCap": false,
+        "tags": ["concept", "sense"]
+    }, {
+        "text": "Every ounce of charisma left in Mick Jagger's tired body.",
+        "keepCap": false,
+        "tags": ["celebrity", "body"]
+    }, {
+        "text": "The eighth graders.",
+        "keepCap": false,
+        "tags": ["group", "age"]
+    }, {
+        "text": "Setting my balls on fire and cartwheeling to Ohio.",
+        "keepCap": false,
+        "tags": ["activity", "bonkers", "gender", "violence"]
+    }, {
+        "text": "The dentist.",
+        "keepCap": false,
+        "tags": ["person", "science"]
+    }, {
+        "text": "Gwyneth Paltrow's opinions.",
+        "keepCap": true,
+        "tags": ["celebrity", "mind"]
+    }, {
+        "text": "Turning the rivers red with the blood of infidels.",
+        "keepCap": false,
+        "tags": ["violence", "concept"]
+    }, {
+        "text": "Rabies.",
+        "keepCap": false,
+        "tags": ["disease"]
+    }, {
+        "text": "Important news about Taylor Swift.",
+        "keepCap": false,
+        "tags": ["celebrity", "history"]
+    }, {
+        "text": "Ejaculating inside another man's wife.",
+        "keepCap": false,
+        "tags": ["sexual", "body", "family"]
+    }, {
+        "text": "Owls, the perfect predator.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "Being John Malkovich.",
+        "keepCap": false,
+        "tags": ["celebrity", "concept"]
+    }, {
+        "text": "Bathing in moonsblood and dancing around the ancient oak.",
+        "keepCap": false,
+        "tags": ["religion", "activity"]
+    }, {
+        "text": "An oppressed people with a vibrant culture.",
+        "keepCap": false,
+        "tags": ["race", "group", "geography"]
+    }, {
+        "text": "An overwhelming variety of cheeses.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "Reading the entire End-User License Agreement.",
+        "keepCap": false,
+        "tags": ["technology", "mind"]
+    }, {
+        "text": "Morpheus.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional"]
+    }, {
+        "text": "Peeing into a girl's butt to make a baby.",
+        "keepCap": false,
+        "tags": ["vulgar", "body", "sexual"]
+    }, {
+        "text": "Generally having no idea of what's going on.",
+        "keepCap": false,
+        "tags": ["mind", "negative"]
+    }, {
+        "text": "No longer finding any Cards Against Humanity card funny.",
+        "keepCap": false,
+        "tags": ["concept", "negative"]
+    }, {
+        "text": "10 football players with erections barreling towards you at full speed.",
+        "keepCap": false,
+        "tags": ["violence", "sexual", "group"]
+    }, {
+        "text": "10,000 shrieking teenage girls.",
+        "keepCap": false,
+        "tags": ["gender", "group"]
+    }, {
+        "text": "A big ol' plate of fettuccine alfredo.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "A big, beautiful mouth packed to the brim with sparkling teeth.",
+        "keepCap": false,
+        "tags": ["body", "positive", "size"]
+    }, {
+        "text": "A black friend.",
+        "keepCap": false,
+        "tags": ["person", "race"]
+    }, {
+        "text": "A burrito that's just sour cream.",
+        "keepCap": false,
+        "tags": ["food", "bonkers"]
+    }, {
+        "text": "A cheerfulness that belies a deep-seated self-loathing.",
+        "keepCap": false,
+        "tags": ["emotion", "mind"]
+    }, {
+        "text": "A cold and indifferent universe.",
+        "keepCap": false,
+        "tags": ["geography", "science"]
+    }, {
+        "text": "A creature made of penises that must constantly arouse itself to survive.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers", "animal"]
+    }, {
+        "text": "A creepy child singing a nursery rhyme.",
+        "keepCap": false,
+        "tags": ["person", "emotion", "music"]
+    }, {
+        "text": "A dolphin that learns to talk and becomes the Dean of Harvard Law School.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "mind"]
+    }, {
+        "text": "A duffel bag full of lizards.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal"]
+    }, {
+        "text": "A finger up the butt.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "A genetic predisposition for alcoholism.",
+        "keepCap": false,
+        "tags": ["disease", "family", "drug"]
+    }, {
+        "text": "A gun that shoots cobras.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "violence"]
+    }, {
+        "text": "A hug.",
+        "keepCap": false,
+        "tags": ["activity", "body"]
+    }, {
+        "text": "A long business meeting with no obvious purpose.",
+        "keepCap": false,
+        "tags": ["event", "group"]
+    }, {
+        "text": "A man in a suit with perfect hair who tells you beautiful lies.",
+        "keepCap": false,
+        "tags": ["gender", "person", "mind", "emotion"]
+    }, {
+        "text": "A man with the head of a goat and the body of a goat.",
+        "keepCap": false,
+        "tags": ["animal", "person"]
+    }, {
+        "text": "A massive collection of child pornography.",
+        "keepCap": false,
+        "tags": ["sexual", "age", "size"]
+    }, {
+        "text": "A medium horchata.",
+        "keepCap": false,
+        "tags": ["food", "size"]
+    }, {
+        "text": "A negative body image that is totally justified.",
+        "keepCap": false,
+        "tags": ["emotion", "mind", "body"]
+    }, {
+        "text": "A slowly encroaching circle of wolves.",
+        "keepCap": false,
+        "tags": ["animal", "group"]
+    }, {
+        "text": "A strong horse and enough rations for thirty days.",
+        "keepCap": false,
+        "tags": ["animal", "food"]
+    }, {
+        "text": "A terrified fat child who won't come out of the bushes.",
+        "keepCap": false,
+        "tags": ["body", "emotion", "person", "nature"]
+    }, {
+        "text": "A tiny fireman who puts out tiny fires.",
+        "keepCap": false,
+        "tags": ["person", "activity"]
+    }, {
+        "text": "A weird guy who says weird stuff and weirds me out.",
+        "keepCap": false,
+        "tags": ["emotion", "person"]
+    }, {
+        "text": "A woman's right to choose.",
+        "keepCap": false,
+        "tags": ["gender", "activity"]
+    }, {
+        "text": "A woman's perspective.",
+        "keepCap": false,
+        "tags": ["gender", "mind"]
+    }, {
+        "text": "Aborting the shit out of a fetus.",
+        "keepCap": false,
+        "tags": ["sexual", "violence", "vulgar"]
+    }, {
+        "text": "Albert Einstein but if he had a huge muscles and a rhinoceros cock.",
+        "keepCap": true,
+        "tags": ["celebrity", "bonkers", "body", "sexual", "vulgar"]
+    }, {
+        "text": "All these people I've killed.",
+        "keepCap": false,
+        "tags": ["violence", "group"]
+    }, {
+        "text": "An arrangement wherein I give a person money they have sex with me.",
+        "keepCap": false,
+        "tags": ["activity", "concept", "money", "sexual"]
+    }, {
+        "text": "An empowered woman.",
+        "keepCap": false,
+        "tags": ["gender", "person", "positive"]
+    }, {
+        "text": "An incurable homosexual.",
+        "keepCap": false,
+        "tags": ["gender", "concept"]
+    }, {
+        "text": "An old dog full of tumors.",
+        "keepCap": false,
+        "tags": ["animal", "disease"]
+    }, {
+        "text": "An older man.",
+        "keepCap": false,
+        "tags": ["gender", "person"]
+    }, {
+        "text": "An X-Man whose power is that he has sex with dogs and children.",
+        "keepCap": false,
+        "tags": ["animal", "sexual", "fictional", "person"]
+    }, {
+        "text": "Anal.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Antidepressants.",
+        "keepCap": false,
+        "tags": ["drug", "science"]
+    }, {
+        "text": "Art.",
+        "keepCap": false,
+        "tags": ["art"]
+    }, {
+        "text": "Assassinating the president.",
+        "keepCap": false,
+        "tags": ["activity", "violence", "celebrity"]
+    }, {
+        "text": "Awesome pictures of planets and stuff.",
+        "keepCap": false,
+        "tags": ["science", "nature", "technology"]
+    }, {
+        "text": "Bad emotions I don't want.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "Becoming the President of the United States.",
+        "keepCap": false,
+        "tags": ["celebrity", "politics", "geography"]
+    }, {
+        "text": "Being sexually attracted to children.",
+        "keepCap": false,
+        "tags": ["sexual", "age"]
+    }, {
+        "text": "Being turned into sausages.",
+        "keepCap": false,
+        "tags": ["food", "activity"]
+    }, {
+        "text": "Beyoncé.",
+        "keepCap": true,
+        "tags": ["celebrity", "music"]
+    }, {
+        "text": "Big, smart money boys tap-tapping on their keyboards.",
+        "keepCap": false,
+        "tags": ["gender", "mind", "technology"]
+    }, {
+        "text": "Blossoming into a beautiful young woman.",
+        "keepCap": false,
+        "tags": ["gender", "person", "negative"]
+    }, {
+        "text": "Breastfeeding in public like a radiant earth goddess.",
+        "keepCap": false,
+        "tags": ["food", "gender", "family"]
+    }, {
+        "text": "Brunch.",
+        "keepCap": false,
+        "tags": ["food", "time"]
+    }, {
+        "text": "Catching a live salmon in your mouth.",
+        "keepCap": false,
+        "tags": ["animal", "violence", "food"]
+    }, {
+        "text": "Child labor.",
+        "keepCap": false,
+        "tags": ["age", "history", "concept"]
+    }, {
+        "text": "China.",
+        "keepCap": true,
+        "tags": ["geography"]
+    }, {
+        "text": "Chipotle.",
+        "keepCap": true,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Chris Hemsworth.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "art"]
+    }, {
+        "text": "Comprehensive immigration reform.",
+        "keepCap": false,
+        "tags": ["concept", "politics"]
+    }, {
+        "text": "Condoleezza Rice.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "politics"]
+    }, {
+        "text": "Consensual, nonreproductive incest.",
+        "keepCap": false,
+        "tags": ["sexual", "family"]
+    }, {
+        "text": "Content.",
+        "keepCap": false,
+        "tags": ["product", "emotion"]
+    }, {
+        "text": "Crazy anal orgasms.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Creamy slices of real, California avocado.",
+        "keepCap": false,
+        "tags": ["food", "geography"]
+    }, {
+        "text": "Critical thinking.",
+        "keepCap": false,
+        "tags": ["mind"]
+    }, {
+        "text": "Crushing the patriarchy.",
+        "keepCap": false,
+        "tags": ["social", "gender", "politics"]
+    }, {
+        "text": "Daddy going away forever.",
+        "keepCap": false,
+        "tags": ["family", "emotion"]
+    }, {
+        "text": "Defeating a gorilla in single combat.",
+        "keepCap": false,
+        "tags": ["animal", "violence", "person"]
+    }, {
+        "text": "Denying the Holocaust.",
+        "keepCap": false,
+        "tags": ["concept", "history"]
+    }, {
+        "text": "Dis bitch.",
+        "keepCap": false,
+        "tags": ["vulgar", "gender", "person"]
+    }, {
+        "text": "Discovering that what I really want in life is to kill people and have sex with their corpses.",
+        "keepCap": false,
+        "tags": ["violence", "concept", "mind", "emotion"]
+    }, {
+        "text": "Doing a somersault and barfing.",
+        "keepCap": false,
+        "tags": ["body", "activity", "disease"]
+    }, {
+        "text": "Dominating a man by peeing on his eldest son.",
+        "keepCap": false,
+        "tags": ["body", "gender", "negative", "emotion", "family"]
+    }, {
+        "text": "Doritos and a Fruit Roll-Up.",
+        "keepCap": true,
+        "tags": ["food", "product"]
+    }, {
+        "text": "Dropping dead in a Sbarro's bathroom and not being found for 72 hours.",
+        "keepCap": false,
+        "tags": ["violence", "body", "geography", "food"]
+    }, {
+        "text": "Dumpster juice.",
+        "keepCap": false,
+        "tags": ["gross"]
+    }, {
+        "text": "Eating ass.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Eating people.",
+        "keepCap": false,
+        "tags": ["body", "food", "violence"]
+    }, {
+        "text": "Eating too many Cinnabons and then vomiting and then eating the vomit.",
+        "keepCap": false,
+        "tags": ["food", "gross", "product"]
+    }, {
+        "text": "Ejaculating at the apex of a cartwheel.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "body"]
+    }, {
+        "text": "Esmeralda, my most beautiful daughter.",
+        "keepCap": true,
+        "tags": ["gender", "family", "person"]
+    }, {
+        "text": "Eternal screaming madness.",
+        "keepCap": false,
+        "tags": ["concept", "activity", "mind", "negative"]
+    }, {
+        "text": "Every man's ultimate fantasy: a perfectly cylindrical vagina.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "gender", "sexual"]
+    }, {
+        "text": "Everything.",
+        "keepCap": false,
+        "tags": ["concept"]
+    }, {
+        "text": "Exploring each other's buttholes.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Facilitating dialogue and deconstructing binaries.",
+        "keepCap": false,
+        "tags": ["concept", "metaphor"]
+    }, {
+        "text": "Falling into a pit of waffles.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "food"]
+    }, {
+        "text": "Farting a huge shit out of my pussy.",
+        "keepCap": false,
+        "tags": ["vulgar", "body", "bonkers"]
+    }, {
+        "text": "Farting all over my face with your tight little asshole.",
+        "keepCap": false,
+        "tags": ["vulgar", "body"]
+    }, {
+        "text": "Feeling the emotion of anger.",
+        "keepCap": false,
+        "tags": ["emotion"]
+    }, {
+        "text": "Feminism.",
+        "keepCap": false,
+        "tags": ["concept", "gender"]
+    }, {
+        "text": "Film roles for actresses over 40.",
+        "keepCap": false,
+        "tags": ["celebrity", "art", "gender"]
+    }, {
+        "text": "Finding a nice elevator to poop in.",
+        "keepCap": false,
+        "tags": ["bonkers", "body", "gross"]
+    }, {
+        "text": "Forty-five minutes of finger blasting.",
+        "keepCap": false,
+        "tags": ["activity", "body", "sexual"]
+    }, {
+        "text": "Founding a major world religion.",
+        "keepCap": false,
+        "tags": ["religion", "geography"]
+    }, {
+        "text": "Fucking me good and taking me to Red Lobster.",
+        "keepCap": false,
+        "tags": ["vulgar", "food"]
+    }, {
+        "text": "Fucking my therapist.",
+        "keepCap": false,
+        "tags": ["vulgar", "person", "mind"]
+    }, {
+        "text": "Gary.",
+        "keepCap": true,
+        "tags": ["person"]
+    }, {
+        "text": "Gay thoughts.",
+        "keepCap": false,
+        "tags": ["gender", "mind"]
+    }, {
+        "text": "Gayle from HR.",
+        "keepCap": true,
+        "tags": ["person", "social", "gender"]
+    }, {
+        "text": "Gazpacho.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Getting aborted.",
+        "keepCap": false,
+        "tags": ["violence", "activity"]
+    }, {
+        "text": "Getting blasted in the face by a t-shirt cannon.",
+        "keepCap": false,
+        "tags": ["violence", "clothing", "technology"]
+    }, {
+        "text": "Getting eaten out by a dog.",
+        "keepCap": false,
+        "tags": ["animal", "sexual"]
+    }, {
+        "text": "Getting high with mom.",
+        "keepCap": false,
+        "tags": ["activity", "drug", "family"]
+    }, {
+        "text": "Getting killed and dragged up a tree by a leopard.",
+        "keepCap": false,
+        "tags": ["violence", "animal", "nature"]
+    }, {
+        "text": "Getting laid like all the time.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "Getting naked too soon.",
+        "keepCap": false,
+        "tags": ["body", "activity"]
+    }, {
+        "text": "Getting pegged.",
+        "keepCap": false,
+        "tags": ["activity", "sexual"]
+    }, {
+        "text": "Getting the Dorito crumbs out of my purse.",
+        "keepCap": false,
+        "tags": ["product", "food"]
+    }, {
+        "text": "Getting this party started!",
+        "keepCap": false,
+        "tags": ["activity", "metaphor"]
+    }, {
+        "text": "Getting trapped in a conversation about Ayn Rand.",
+        "keepCap": false,
+        "tags": ["mind", "communication", "art"]
+    }, {
+        "text": "Going around pulling people's tampons out.",
+        "keepCap": false,
+        "tags": ["body", "gross", "person"]
+    }, {
+        "text": "Going to bed at a reasonable hour.",
+        "keepCap": false,
+        "tags": ["time", "nature"]
+    }, {
+        "text": "Gregor, my largest son.",
+        "keepCap": true,
+        "tags": ["person", "family"]
+    }, {
+        "text": "Grunting for ten minutes and then peeing sand.",
+        "keepCap": false,
+        "tags": ["bonkers", "body"]
+    }, {
+        "text": "Guns.",
+        "keepCap": false,
+        "tags": ["technology", "violence"]
+    }, {
+        "text": "Happy daddies with happy sandals.",
+        "keepCap": false,
+        "tags": ["clothing", "group", "family", "emotion"]
+    }, {
+        "text": "Hating Jews.",
+        "keepCap": false,
+        "tags": ["race", "negative", "emotion", "group"]
+    }, {
+        "text": "Having a vagina.",
+        "keepCap": false,
+        "tags": ["body", "gender"]
+    }, {
+        "text": "Having an awesome time drinking and driving.",
+        "keepCap": false,
+        "tags": ["activity", "drug", "emotion"]
+    }, {
+        "text": "Having sex with a beautiful person.",
+        "keepCap": false,
+        "tags": ["body", "person", "sexual"]
+    }, {
+        "text": "Having sex with a man and then eating his head.",
+        "keepCap": false,
+        "tags": ["violence", "sexual", "gender", "person", "body"]
+    }, {
+        "text": "Having sex with your mom.",
+        "keepCap": false,
+        "tags": ["family", "sexual"]
+    }, {
+        "text": "Holding the proper political beliefs of my time to attract a mate.",
+        "keepCap": false,
+        "tags": ["politics", "mind", "social"]
+    }, {
+        "text": "Homework.",
+        "keepCap": false,
+        "tags": ["mind", "activity", "concept"]
+    }, {
+        "text": "Hot lettuce.",
+        "keepCap": false,
+        "tags": ["food", "gross"]
+    }, {
+        "text": "How good lead paint taste.",
+        "keepCap": false,
+        "tags": ["food", "drug"]
+    }, {
+        "text": "How great my ass looks in these jeans.",
+        "keepCap": false,
+        "tags": ["body", "concept", "clothing"]
+    }, {
+        "text": "How sad it will be when Morgan Freeman dies.",
+        "keepCap": false,
+        "tags": ["celebrity", "concept", "negative"]
+    }, {
+        "text": "How strange it is to be anything at all.",
+        "keepCap": false,
+        "tags": ["bonkers"]
+    }, {
+        "text": "Huge big balls full of jizz.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual", "body"]
+    }, {
+        "text": "Informing you that I am a registered sex offender.",
+        "keepCap": false,
+        "tags": ["communication", "negative", "person", "sexual", "social"]
+    }, {
+        "text": "ISIS.",
+        "keepCap": true,
+        "tags": ["politics", "violence", "group"]
+    }, {
+        "text": "It being too late to stop having sex with a horse.",
+        "keepCap": false,
+        "tags": ["animal", "time", "sexual"]
+    }, {
+        "text": "Jason, the teen mayor.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "person", "politics"]
+    }, {
+        "text": "Jazz.",
+        "keepCap": false,
+        "tags": ["music"]
+    }, {
+        "text": "Just now finding out about the Armenian Genocide.",
+        "keepCap": false,
+        "tags": ["event", "mind", "history"]
+    }, {
+        "text": "Late-stage dementia.",
+        "keepCap": false,
+        "tags": ["mind", "disease", "age"]
+    }, {
+        "text": "Libertarians.",
+        "keepCap": false,
+        "tags": ["politics", "group"]
+    }, {
+        "text": "Loud, scary thunder.",
+        "keepCap": false,
+        "tags": ["nature", "sense", "emotion"]
+    }, {
+        "text": "Making out and stuff.",
+        "keepCap": false,
+        "tags": ["sexual"]
+    }, {
+        "text": "Math.",
+        "keepCap": false,
+        "tags": ["science", "concept", "mind"]
+    }, {
+        "text": "Meatloaf, the food.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Meatloaf, the man.",
+        "keepCap": true,
+        "tags": ["celebrity", "person", "music"]
+    }, {
+        "text": "Menopause.",
+        "keepCap": false,
+        "tags": ["age", "body", "gender"]
+    }, {
+        "text": "Mental illness.",
+        "keepCap": false,
+        "tags": ["mind", "disease"]
+    }, {
+        "text": "Microaggressions.",
+        "keepCap": false,
+        "tags": ["violence", "mind", "person"]
+    }, {
+        "text": "Misogyny.",
+        "keepCap": false,
+        "tags": ["gender", "negative"]
+    }, {
+        "text": "Mixing M&Ms and Skittles like some kind of psychopath.",
+        "keepCap": false,
+        "tags": ["bonkers", "food"]
+    }, {
+        "text": "Mommy and daddy fighting all the time.",
+        "keepCap": false,
+        "tags": ["family", "negative", "activity"]
+    }, {
+        "text": "Moon people.",
+        "keepCap": false,
+        "tags": ["group", "geography"]
+    }, {
+        "text": "Muchin' puss.",
+        "keepCap": false,
+        "tags": ["vulgar", "sexual"]
+    }, {
+        "text": "My brother's hot friends.",
+        "keepCap": false,
+        "tags": ["group", "gender"]
+    }, {
+        "text": "My dog dying.",
+        "keepCap": false,
+        "tags": ["animal", "violence"]
+    }, {
+        "text": "My huge penis and substantial fortune.",
+        "keepCap": false,
+        "tags": ["sexual", "money"]
+    }, {
+        "text": "Objectifying women.",
+        "keepCap": false,
+        "tags": ["body", "concept", "gender"]
+    }, {
+        "text": "One of them big-city Jew lawyers.",
+        "keepCap": false,
+        "tags": ["race", "religion", "person", "politics", "group", "geography"]
+    }, {
+        "text": "One of those \"blow jobs\" I've been hearing so much about.",
+        "keepCap": false,
+        "tags": ["sexual", "concept"]
+    }, {
+        "text": "Onions.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Opening your mouth to talk and a big penis fops out.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers", "body"]
+    }, {
+        "text": "Our baby.",
+        "keepCap": false,
+        "tags": ["age", "family", "person"]
+    }, {
+        "text": "Out-of-control teenage blowjob parties.",
+        "keepCap": false,
+        "tags": ["age", "sexual"]
+    }, {
+        "text": "Overthrowing the democratically-elected government of Chile.",
+        "keepCap": false,
+        "tags": ["geography", "politics", "violence"]
+    }, {
+        "text": "Participating.",
+        "keepCap": false,
+        "tags": ["activity", "group"]
+    }, {
+        "text": "Period poops.",
+        "keepCap": false,
+        "tags": ["body", "gross", "vulgar", "gender"]
+    }, {
+        "text": "Picking up a glass of water and taking a sip and being the president.",
+        "keepCap": false,
+        "tags": ["bonkers", "food", "politics"]
+    }, {
+        "text": "Playing my asshole like a trumpet.",
+        "keepCap": false,
+        "tags": ["body", "bonkers", "music"]
+    }, {
+        "text": "Plowing that ass like a New England corn farmer.",
+        "keepCap": false,
+        "tags": ["metaphor", "sexual", "geography"]
+    }, {
+        "text": "Political correctness.",
+        "keepCap": false,
+        "tags": ["concept", "communication", "politics"]
+    }, {
+        "text": "Pooping in a leotard and hoping no one notices.",
+        "keepCap": false,
+        "tags": ["body", "clothing", "gross"]
+    }, {
+        "text": "Pooping in the potty.",
+        "keepCap": false,
+        "tags": ["body", "gross"]
+    }, {
+        "text": "Prematurely ejaculating like a total loser.",
+        "keepCap": false,
+        "tags": ["sexual", "negative", "time"]
+    }, {
+        "text": "Pretending to be one of the guys but actually being the spider god.",
+        "keepCap": false,
+        "tags": ["bonkers", "animal", "person", "religion"]
+    }, {
+        "text": "Putting more black people in jail.",
+        "keepCap": false,
+        "tags": ["politics", "race", "activity"]
+    }, {
+        "text": "Quacking like a duck in lieu of a cogent argument.",
+        "keepCap": false,
+        "tags": ["animal", "bonkers", "communication"]
+    }, {
+        "text": "Quinoa.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Raising three kids on minimum wage.",
+        "keepCap": false,
+        "tags": ["family", "money"]
+    }, {
+        "text": "Reaching an age where barbecue chips are better than sex.",
+        "keepCap": false,
+        "tags": ["age", "concept", "food"]
+    }, {
+        "text": "Regurgitating a half-digested sparrow.",
+        "keepCap": false,
+        "tags": ["body", "animal", "gross"]
+    }, {
+        "text": "Restoring Germany to its former glory.",
+        "keepCap": false,
+        "tags": ["concept", "geography", "race"]
+    }, {
+        "text": "Rock-hard tits and a huge vagina.",
+        "keepCap": false,
+        "tags": ["body", "sexual"]
+    }, {
+        "text": "Rolling so hard.",
+        "keepCap": false,
+        "tags": ["drug", "size"]
+    }, {
+        "text": "Rubbing my bush all over your bald head.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Salsa Night at Dave's Cantina.",
+        "keepCap": false,
+        "tags": ["event", "drug", "food", "geography"]
+    }, {
+        "text": "Scissoring, if that's a thing.",
+        "keepCap": false,
+        "tags": ["sexual", "body"]
+    }, {
+        "text": "Seizing control of the means of production.",
+        "keepCap": false,
+        "tags": ["activity", "money", "politics", "technology"]
+    }, {
+        "text": "Self-identifying as a DJ.",
+        "keepCap": false,
+        "tags": ["celebrity", "concept", "music", "person"]
+    }, {
+        "text": "Showing all the boys my pussy.",
+        "keepCap": false,
+        "tags": ["group", "person", "sexual", "body", "activity"]
+    }, {
+        "text": "Slamming a dunk.",
+        "keepCap": false,
+        "tags": ["sport", "activity"]
+    }, {
+        "text": "Smashing my balls at the moment of climax.",
+        "keepCap": false,
+        "tags": ["activity", "sexual", "violence", "body"]
+    }, {
+        "text": "Some of that good dick.",
+        "keepCap": false,
+        "tags": ["body", "sexual", "vulgar"]
+    }, {
+        "text": "Some real spicy shrimps.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "Starting a shitty podcast.",
+        "keepCap": false,
+        "tags": ["mind", "activity", "communication", "negative"]
+    }, {
+        "text": "Straight blazin' 24/7.",
+        "keepCap": false,
+        "tags": ["drug", "time"]
+    }, {
+        "text": "Sucking each other's penises for hours on end.",
+        "keepCap": false,
+        "tags": ["sexual", "bonkers"]
+    }, {
+        "text": "Sudden and unwanted slam poetry.",
+        "keepCap": false,
+        "tags": ["art", "mind", "time"]
+    }, {
+        "text": "Swearing praise upon the Sultan's hideous daughters.",
+        "keepCap": false,
+        "tags": ["activity", "celebrity", "family", "gender", "politics", "group"]
+    }, {
+        "text": "Systems and policies designed to preserve centuries-old power structures.",
+        "keepCap": false,
+        "tags": ["politics", "time"]
+    }, {
+        "text": "Tables.",
+        "keepCap": false,
+        "tags": ["thing"]
+    }, {
+        "text": "Taking the form of a falcon.",
+        "keepCap": false,
+        "tags": ["animal", "activity", "body"]
+    }, {
+        "text": "Tender chunks of all-white-meat chicken.",
+        "keepCap": false,
+        "tags": ["food"]
+    }, {
+        "text": "That bitch, Stacy.",
+        "keepCap": false,
+        "tags": ["person", "negative"]
+    }, {
+        "text": "The amount of baby carrots I can fit up my ass.",
+        "keepCap": false,
+        "tags": ["bonkers", "food", "body", "vulgar"]
+    }, {
+        "text": "The best, deepest quotes from The Dark Knight.",
+        "keepCap": false,
+        "tags": ["communication", "art"]
+    }, {
+        "text": "The body of a 46-year-old man.",
+        "keepCap": false,
+        "tags": ["body", "age"]
+    }, {
+        "text": "The bond between a woman and her horse.",
+        "keepCap": false,
+        "tags": ["animal", "gender", "person"]
+    }, {
+        "text": "The chicken from Popeyes.",
+        "keepCap": false,
+        "tags": ["food", "product"]
+    }, {
+        "text": "The clown that followed me home from the grocery store.",
+        "keepCap": false,
+        "tags": ["person", "activity", "geography", "bonkers"]
+    }, {
+        "text": "The fear and hatred in men's hearts.",
+        "keepCap": false,
+        "tags": ["emotion", "negative"]
+    }, {
+        "text": "The feeling of going to McDonald's as a 6-year-old.",
+        "keepCap": false,
+        "tags": ["emotion", "product", "geography"]
+    }, {
+        "text": "The flaming wreckage of the International Space Station.",
+        "keepCap": false,
+        "tags": ["violence", "technology", "science"]
+    }, {
+        "text": "The full blown marginalization of ugly people.",
+        "keepCap": false,
+        "tags": ["body", "concept", "group", "mind", "negative", "social"]
+    }, {
+        "text": "The full force of the American military.",
+        "keepCap": false,
+        "tags": ["politics", "violence", "geography", "history", "technology"]
+    }, {
+        "text": "The government.",
+        "keepCap": false,
+        "tags": ["politics", "group"]
+    }, {
+        "text": "The graceful path of an autumn leaf as it falls to its earthen cradle.",
+        "keepCap": false,
+        "tags": ["nature", "art"]
+    }, {
+        "text": "The hottest MILF in Dallas.",
+        "keepCap": false,
+        "tags": ["person", "gender", "age", "geography"]
+    }, {
+        "text": "The LGBT community.",
+        "keepCap": false,
+        "tags": ["group", "gender"]
+    }, {
+        "text": "The lived experience of African Americans.",
+        "keepCap": false,
+        "tags": ["race", "geography", "social"]
+    }, {
+        "text": "The mysterious fog rolling into town.",
+        "keepCap": false,
+        "tags": ["nature", "geography"]
+    }, {
+        "text": "The ol' penis-in-the-popcorn surprise.",
+        "keepCap": false,
+        "tags": ["sexual", "concept"]
+    }, {
+        "text": "The Rwandan Genocide.",
+        "keepCap": false,
+        "tags": ["event", "geography", "violence"]
+    }, {
+        "text": "The secret to truly resilient hair.",
+        "keepCap": false,
+        "tags": ["body", "nature", "product"]
+    }, {
+        "text": "The sweet, forbidden meat of the monkey.",
+        "keepCap": false,
+        "tags": ["animal", "food"]
+    }, {
+        "text": "The wind.",
+        "keepCap": false,
+        "tags": ["nature"]
+    }, {
+        "text": "Thinking about what eating even is.",
+        "keepCap": false,
+        "tags": ["food", "mind"]
+    }, {
+        "text": "Three hours of nonstop penetration.",
+        "keepCap": false,
+        "tags": ["sexual", "time"]
+    }, {
+        "text": "Tiny, rancid girl farts.",
+        "keepCap": false,
+        "tags": ["gross", "body", "gender", "size"]
+    }, {
+        "text": "Trees.",
+        "keepCap": false,
+        "tags": ["nature"]
+    }, {
+        "text": "Trevor, the world's greatest boyfriend.",
+        "keepCap": true,
+        "tags": ["celebrity", "fictional", "gender"]
+    }, {
+        "text": "Turning 32.",
+        "keepCap": false,
+        "tags": ["concept", "age"]
+    }, {
+        "text": "Twenty bucks.",
+        "keepCap": false,
+        "tags": ["money"]
+    }, {
+        "text": "Twenty cheerleaders laughing at your tiny penis.",
+        "keepCap": false,
+        "tags": ["sexual", "gender", "group"]
+    }, {
+        "text": "Twisting my cock and balls into a balloon poodle.",
+        "keepCap": false,
+        "tags": ["bonkers", "sexual", "violence", "vulgar"]
+    }, {
+        "text": "Two beautiful pig sisters.",
+        "keepCap": false,
+        "tags": ["animal", "gender", "family"]
+    }, {
+        "text": "Two shitty kids and a garbage husband.",
+        "keepCap": false,
+        "tags": ["family", "negative"]
+    }, {
+        "text": "Waking up inside of a tornado.",
+        "keepCap": false,
+        "tags": ["violence", "nature"]
+    }, {
+        "text": "Watching a hot person eat.",
+        "keepCap": false,
+        "tags": ["body", "food", "person"]
+    }, {
+        "text": "Watching you die.",
+        "keepCap": false,
+        "tags": ["violence", "person"]
+    }, {
+        "text": "Water.",
+        "keepCap": false,
+        "tags": ["nature"]
+    }, {
+        "text": "When the big truck goes \"Toot! Toot!\"",
+        "keepCap": false,
+        "tags": ["bonkers", "event", "technology"]
+    }, {
+        "text": "Who really did 9/11.",
+        "keepCap": false,
+        "tags": ["politics", "violence", "mind"]
+    }, {
+        "text": "Whomsoever let the dogs out.",
+        "keepCap": false,
+        "tags": ["music", "concept", "animal"]
+    }, {
+        "text": "Whooping your ass at Mario Kart.",
+        "keepCap": false,
+        "tags": ["activity", "person", "social", "technology"]
+    }, {
+        "text": "Working so hard to have muscles and then having them.",
+        "keepCap": false,
+        "tags": ["body", "activity", "concept"]
+    }, {
+        "text": "You.",
+        "keepCap": false,
+        "tags": ["person"]
+    }],
+    "tags": ["activity", "age", "animal", "art", "body", "bonkers", "celebrity", "clothing", "communication", "concept", "disease", "drug", "emotion", "event", "family", "fictional", "food", "gender", "geography", "gross", "group", "history", "metaphor", "mind", "money", "music", "nature", "negative", "person", "politics", "positive", "product", "race", "religion", "science", "sense", "sexual", "size", "social", "sport", "technology", "thing", "time", "violence", "vulgar"]
+}

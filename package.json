@@ -1,0 +1,17 @@
+{
+  "name": "cah_bot",
+  "version": "1.0.0",
+  "description": "Generates sentence vectors using word2vec",
+  "main": "CAHBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Prinz",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsdataframe": "^0.2.0",
+    "natural": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}
